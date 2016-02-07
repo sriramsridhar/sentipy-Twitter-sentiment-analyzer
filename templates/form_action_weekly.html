@@ -1,0 +1,69 @@
+ <html>
+    <head>
+        <title>Sentipy-Sentimental analysis using real-time twitter data</title>
+        <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+        <script src="{{ url_for('static', filename='Chart.js') }}"></script>
+    </head>
+    <body>
+        <div id="container">
+            <div class="title">
+                <h1>Results for {{name}}-Sentipy</h1>
+            </div>
+         	 <div id="content">
+            <p>weekly report for {{name}}</p>
+            <p>The positive counts are : {{pos_count}}
+            &nbsp;&nbsp;&nbsp;&nbsp;The negative counts are : {{neg_count}}
+            &nbsp;&nbsp;&nbsp;&nbsp;The neutral counts are : {{neut_count}}</p>
+            </div>
+            <div id="graph">
+                <canvas id="canvas" height="100" width="150"></canvas>
+            </div>
+           
+            <div id="left_data">
+            
+            </div>
+            <div id="center_data">
+                
+            </div>
+            <div id="right_data">
+                
+            </div>
+            </div>
+        </div>
+    <script>
+    var barChartData = {
+        labels : ["Day01","Day02","Day03","Day04","Day05","Day06"],
+        datasets : [
+            {
+                fillColor : "rgba(220,220,220,0.5)",
+                strokeColor : "rgba(220,220,220,0.8)",
+                highlightFill: "rgba(220,220,220,0.75)",
+                highlightStroke: "rgba(220,220,220,1)",
+                data : [{{pos_count[0]}},{{pos_count[1]}},{{pos_count[2]}},{{pos_count[3]}},{{pos_count[4]}},{{pos_count[5]}}]
+            },
+            {
+                fillColor : "rgba(151,187,205,0.5)",
+                strokeColor : "rgba(151,187,205,0.8)",
+                highlightFill : "rgba(151,187,205,0.75)",
+                highlightStroke : "rgba(151,187,205,1)",
+                data : [{{neut_count[0]}},{{neut_count[1]}},{{neut_count[2]}},{{neut_count[3]}},{{neut_count[4]}},{{neut_count[5]}}]
+            },
+            {
+                fillColor : "rgba(151,100,205,0.5)",
+                strokeColor : "rgba(151,100,205,0.8)",
+                highlightFill : "rgba(151,100,205,0.75)",
+                highlightStroke : "rgba(151,100,205,1)",
+                data : [{{neg_count[0]}},{{neg_count[1]}},{{neg_count[2]}},{{neg_count[3]}},{{neg_count[4]}},{{neg_count[5]}}]
+            }
+        ]
+    }
+    window.onload = function(){
+        var ctx = document.getElementById("canvas").getContext("2d");
+        window.myBar = new Chart(ctx).Bar(barChartData, {
+            responsive : true
+        });
+    }
+    </script>
+    </body>
+</html>
+

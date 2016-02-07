@@ -1,0 +1,55 @@
+ <html>
+    <head>
+        <title>Results for {{name}}-Sentipy</title>
+        <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+        <script src="{{ url_for('static', filename='Chart.js') }}"></script>
+    </head>
+    <body>
+        <div id="container">
+            <div class="title">
+                <h1>Sentipy-Sentimental analysis using real-time twitter data</h1>
+            </div>
+            <div id="content">
+            <p>Today's report for {{name}}</p>
+            <p>The positive counts are : {{pos_count}}
+            &nbsp;&nbsp;&nbsp;&nbsp;The negative counts are : {{neg_count}}
+            &nbsp;&nbsp;&nbsp;&nbsp;The neutral counts are : {{neut_count}}</p>
+            </div>
+            <div id="graph">
+                <canvas id="canvas" height="100" width="150"></canvas>
+            </div>
+            
+            <div id="left_data">
+            
+            </div>
+            <div id="center_data">
+                
+            </div>
+            <div id="right_data">
+                
+            </div>
+            </div>
+        </div>
+    <script>
+    var barChartData = {
+        labels : ["positive","neutral","negative"],
+        datasets : [
+            {
+                fillColor : "rgba(220,220,220,0.5)",
+                strokeColor : "rgba(220,220,220,0.8)",
+                highlightFill: "rgba(220,220,220,0.75)",
+                highlightStroke: "rgba(220,220,220,1)",
+                data : [{{pos_count}},{{neut_count}},{{neg_count}}]
+            }
+        ]
+    }
+    window.onload = function(){
+        var ctx = document.getElementById("canvas").getContext("2d");
+        window.myBar = new Chart(ctx).Bar(barChartData, {
+            responsive : true
+        });
+    }
+    </script>
+    </body>
+</html>
+
