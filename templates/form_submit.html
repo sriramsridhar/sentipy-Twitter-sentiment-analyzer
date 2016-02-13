@@ -2,6 +2,7 @@
     <head>
         <title>Sentipy-Sentimental analysis using real-time twitter data</title>
         <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+      
     </head>
     <body>
         <div id="container">
@@ -18,16 +19,17 @@
                   <label for="Time for accessing">Please enter the time period:</label>
                   <input type="radio" name="options" id="option1" value="today"> Today </input>
                   <input type="radio" name="options" id="option2" value="lastweek"> Last week </input><br>
-                  <input type="submit" />
+                  <button id="button" type="submit">Submit</button>
                 </form>
             </div>
             </div>
         </div>
+         <div id="container"><footer><p style="text-align:center;">This <a href="https://github.com/sriramsridhar/sentipy-v2.0" target="_blank">open-sourced</a> site is designed by sriram &#169; 2016</p></footer></div>
     <script type="text/javascript">
       function validateForm() {
     var x = document.forms["myForm"]["yourname"].value;
     if (x == null || x == "") {
-        alert("Name must be filled out");
+        alert("keyword must be filled out");
         return false;
     }
      var radios = document.getElementsByName("options");
@@ -39,10 +41,11 @@
         i++;        
     }
 
-    if (!formValid) alert("Must check some option!");
+    if (!formValid) alert("Must check the time period");
     return formValid;
 }
     </script>
+
     </body>
 </html>
  

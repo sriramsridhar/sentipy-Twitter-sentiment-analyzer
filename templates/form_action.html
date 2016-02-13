@@ -5,6 +5,7 @@
         <script src="{{ url_for('static', filename='Chart.js') }}"></script>
     </head>
     <body>
+        
         <div id="container">
             <div class="title">
                 <h1>Sentipy-Sentimental analysis using real-time twitter data</h1>
@@ -12,33 +13,47 @@
             <div id="content">
             <p>Today's report for {{name}}</p>
             <p>The positive counts are : {{pos_count}}
+            &nbsp;&nbsp;&nbsp;&nbsp;The neutral counts are : {{neut_count}}
             &nbsp;&nbsp;&nbsp;&nbsp;The negative counts are : {{neg_count}}
-            &nbsp;&nbsp;&nbsp;&nbsp;The neutral counts are : {{neut_count}}</p>
+           
+            </p>
             </div>
             <div id="graph">
-                <canvas id="canvas" height="100" width="150"></canvas>
+                <canvas id="canvas" height="100" width="150" ></canvas>
             </div>
             
-            <div id="left_data">
+            </div>
+        <div id="container">
             
-            </div>
-            <div id="center_data">
-                
-            </div>
-            <div id="right_data">
-                
-            </div>
-            </div>
-        </div>
+            
+            <div style="float: left; width: 33%;"><div class="title"><h1>Positive Tweets</h1></div>{% for item in pos_tweet %}
+           
+            <p>{{item}}</p>
+          
+            {% endfor %}</div>
+            <div style="float: left; width: 34%;"><div class="title"><h1>Neutral Tweets</h1> </div>{% for item in neut_tweet %}
+           
+            <p>{{item}}</p>
+          
+            {% endfor %}</div>
+            <div style="float: left; width: 33%;"> <div class="title"><h1>Negative tweets</h1></div> {% for item in neg_tweet %}
+            
+            <p>{{item}}</p>
+            
+            {% endfor %}</div>
+            <br style="clear: left;" />
+                     </div>
+        <div id="container"><footer><p style="text-align:center;">This <a href="https://github.com/sriramsridhar/sentipy-v2.0" target="_blank">open-sourced</a> site is designed by sriram &#169; 2016</p></footer></div>
+       
     <script>
     var barChartData = {
         labels : ["positive","neutral","negative"],
         datasets : [
             {
-                fillColor : "rgba(220,220,220,0.5)",
-                strokeColor : "rgba(220,220,220,0.8)",
-                highlightFill: "rgba(220,220,220,0.75)",
-                highlightStroke: "rgba(220,220,220,1)",
+                fillColor : "rgba(220,220,255,0.7)",
+                strokeColor : "rgba(220,220,255,0.8)",
+                highlightFill: "rgba(220,220,255,0.75)",
+                highlightStroke: "rgba(220,220,255,1)",
                 data : [{{pos_count}},{{neut_count}},{{neg_count}}]
             }
         ]

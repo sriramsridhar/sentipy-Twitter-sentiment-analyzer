@@ -4,8 +4,22 @@
 from flask import Flask, render_template, request, url_for
 import get_twitter_data
 import max_entropy_classifier
+import itertools
 # Initialize the Flask application
 app = Flask(__name__)
+def process(val,val2):
+    pos_tweet=[]
+    neg_tweet=[]
+    neut_tweet=[]
+    items=len(val2)-1
+    for i in range(0,items):
+        if val2[i] == "neutral":
+            neut_tweet.append(val[i])
+        elif val2[i] == "positive":
+            pos_tweet.append(val[i])
+        elif val2[i] == "negative":
+            neg_tweet.append(val[i])
+    return pos_tweet,neg_tweet,neut_tweet
 
 # Define a route for the default URL, which loads the form
 @app.route('/')
@@ -29,17 +43,16 @@ def submit():
                               trainingDataFile, classifierDumpFile, trainingRequired)
     maxent.classify()
     val,val2,time,pos_count,neg_count,neut_count=maxent.print_value()
-    for i in range(len(val)):
-    	print val[i]
-    	print val2[i]
+    pos_tweet,neg_tweet,neut_tweet=process(val,val2)
     if time == 'today':
-    	return render_template('form_action.html', name=keyword, option=time, pos_count=pos_count, neg_count=neg_count, neut_count=neut_count)
+    	return render_template('form_action.html', name=keyword, option=time, pos_count=pos_count, neg_count=neg_count, neut_count=neut_count, pos_tweet=pos_tweet, neg_tweet=neg_tweet, neut_tweet=neut_tweet)
     elif time == 'lastweek':
-    	return render_template('form_action_weekly.html', name=keyword, option=time, pos_count=pos_count, neg_count=neg_count, neut_count=neut_count)
+    	return render_template('form_action_weekly.html', name=keyword, option=time, pos_count=pos_count, neg_count=neg_count, neut_count=neut_count, pos_tweet=pos_tweet, neg_tweet=neg_tweet, neut_tweet=neut_tweet)
     else:
     	return render_template('form_submit.html',sorry="T")
 # Run the app :)
 if __name__ == '__main__':
-  app.run(debug=True)
+	app.jinja_env.cache = {}
+	app.run(debug=True)
 
 

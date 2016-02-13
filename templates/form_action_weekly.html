@@ -10,26 +10,36 @@
                 <h1>Results for {{name}}-Sentipy</h1>
             </div>
          	 <div id="content">
-            <p>weekly report for {{name}}</p>
+            <p>Last week report for {{name}}</p>
             <p>The positive counts are : {{pos_count}}
-            &nbsp;&nbsp;&nbsp;&nbsp;The negative counts are : {{neg_count}}
             &nbsp;&nbsp;&nbsp;&nbsp;The neutral counts are : {{neut_count}}</p>
+            &nbsp;&nbsp;&nbsp;&nbsp;The negative counts are : {{neg_count}}
             </div>
             <div id="graph">
                 <canvas id="canvas" height="100" width="150"></canvas>
             </div>
-           
-            <div id="left_data">
+           </div>
+          <div id="container">
             
-            </div>
-            <div id="center_data">
-                
-            </div>
-            <div id="right_data">
-                
-            </div>
-            </div>
-        </div>
+            
+            <div style="float: left; width: 33%;"><div class="title"><h1>Positive Tweets</h1></div>{% for item in pos_tweet %}
+           
+            <p>{{item}}</p>
+          
+            {% endfor %}</div>
+            <div style="float: left; width: 34%;"><div class="title"><h1>Neutral Tweets</h1> </div>{% for item in neut_tweet %}
+           
+            <p>{{item}}</p>
+          
+            {% endfor %}</div>
+            <div style="float: left; width: 33%;"> <div class="title"><h1>Negative tweets</h1></div> {% for item in neg_tweet %}
+            
+            <p>{{item}}</p>
+            
+            {% endfor %}</div>
+            <br style="clear: left;" />
+                     </div>
+         <div id="container"><footer><p style="text-align:center;">This <a href="https://github.com/sriramsridhar/sentipy-v2.0" target="_blank">open-sourced</a> site is designed by sriram &#169; 2016</p></footer></div>
     <script>
     var barChartData = {
         labels : ["Day01","Day02","Day03","Day04","Day05","Day06"],

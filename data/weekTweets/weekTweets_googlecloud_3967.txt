@@ -1,0 +1,1208 @@
+(dp0
+I0
+(lp1
+VRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p2
+aVRT @kmontenegro: Took me 25 minutes, &amp; that's factoring a distraction, to setup @SandstormIO on @googlecloud. Actually easy to do. Thx @ash\u2026
+p3
+aVRT @kmontenegro: Took me 25 minutes, &amp; that's factoring a distraction, to setup @SandstormIO on @googlecloud. Actually easy to do. Thx @ash\u2026
+p4
+aVRT @kmontenegro: Took me 25 minutes, &amp; that's factoring a distraction, to setup @SandstormIO on @googlecloud. Actually easy to do. Thx @ash\u2026
+p5
+aVTook me 25 minutes, &amp; that's factoring a distraction, to setup @SandstormIO on @googlecloud. Actually easy to do. Thx @asheeshlaroia &amp; team!
+p6
+aV@GoogleCloud Platform helps VFX, animation &amp; digital media companies run more efficiently! RSVP in #Vancouver at https://t.co/MWPSvLh1Je
+p7
+aVRT @CloudCruiserInc: New BLOG explores #cloud tagging strategies and challenges. #AWS #Azure #googlecloud https://t.co/G45fwPHzvW https://t\u2026
+p8
+aVRT @AnnexPro: RSVP for #Vancouver @GoogleCloud Gaming Summit and explore how mobile &amp;  cloud form an unique platform for gaming! https://t.\u2026
+p9
+aVRSVP for #Vancouver @GoogleCloud Gaming Summit and explore how mobile &amp;  cloud form an unique platform for gaming! https://t.co/sff4pyQ8p6
+p10
+aVRT @saspinall: Speculation by @crn around @verizon and @googlecloud combining offers together.  https://t.co/ryh7rqmYRg
+p11
+aVSpeculation by @crn around @verizon and @googlecloud combining offers together.  https://t.co/ryh7rqmYRg
+p12
+aVRT @googlecloud: From a new #bigdata blog to AlphaGo\u2019s victory, revisit the GCP moments you may have missed: https://t.co/GdKsuefjTn https:\u2026
+p13
+aV@MatthiasJSax @flinklondon @ApacheFlink if I'm in London, I'll join and bring some #googlecloud swag :)
+p14
+aVRT @googlecloud: From a new #bigdata blog to AlphaGo\u2019s victory, revisit the GCP moments you may have missed: https://t.co/GdKsuefjTn https:\u2026
+p15
+aVRT @googlecloud: From a new #bigdata blog to AlphaGo\u2019s victory, revisit the GCP moments you may have missed: https://t.co/GdKsuefjTn https:\u2026
+p16
+aVRT @googlecloud: From a new #bigdata blog to AlphaGo\u2019s victory, revisit the GCP moments you may have missed: https://t.co/GdKsuefjTn https:\u2026
+p17
+aVRT @googlecloud: From a new #bigdata blog to AlphaGo\u2019s victory, revisit the GCP moments you may have missed: https://t.co/GdKsuefjTn https:\u2026
+p18
+aVRT @CloudCruiserInc: New BLOG explores #cloud tagging strategies and challenges. #AWS #Azure #googlecloud https://t.co/G45fwPHzvW https://t\u2026
+p19
+aVRT @googlecloud: From a new #bigdata blog to AlphaGo\u2019s victory, revisit the GCP moments you may have missed: https://t.co/GdKsuefjTn https:\u2026
+p20
+aVRT @googlecloud: From a new #bigdata blog to AlphaGo\u2019s victory, revisit the GCP moments you may have missed: https://t.co/GdKsuefjTn https:\u2026
+p21
+aVFrom a new #bigdata blog to AlphaGo\u2019s victory, revisit the GCP moments you may have missed: https://t.co/GdKsuefjTn https://t.co/K7zd6mLaZI
+p22
+aVRT @bobharrisuk: For those building IoT platforms - @googlecloud launches @awscloud Lambda lookalike in a blaze of silence - https://t.co/1\u2026
+p23
+aVRT @bobharrisuk: For those building IoT platforms - @googlecloud launches @awscloud Lambda lookalike in a blaze of silence - https://t.co/1\u2026
+p24
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p25
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p26
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p27
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p28
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p29
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p30
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p31
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p32
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p33
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p34
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p35
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p36
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p37
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p38
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p39
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p40
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p41
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p42
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p43
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p44
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p45
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p46
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p47
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p48
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p49
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p50
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p51
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p52
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p53
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p54
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p55
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p56
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p57
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p58
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p59
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p60
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p61
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p62
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p63
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p64
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p65
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p66
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p67
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p68
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p69
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p70
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p71
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p72
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p73
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p74
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p75
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p76
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p77
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p78
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p79
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p80
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p81
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p82
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p83
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p84
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p85
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p86
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p87
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p88
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p89
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p90
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p91
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p92
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p93
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p94
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p95
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p96
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p97
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p98
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p99
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p100
+aVRT @bamajr: @googlecloud Website hosted is on #GoogleDevelopersConsole &amp; domain/dns is on #GoogleDomains https://t.co/zTvWh6nsq4
+p101
+asI1
+(lp102
+Vgoogle cloud social reputation / public opinion score is 13.3 https://t.co/EXPKB6RbV2 #OpinionMining #Google #googlecloud
+p103
+aVRT @JamesTamplin: After the Parse news, we got quite a few questions about the future of @Firebase. I wrote a post about it here: https://t\u2026
+p104
+aVJDA Software is looking for: Software Engineer Int (#Java #Python #GoogleCloud)\u000ahttps://t.co/JHhP4I3rXQ #job
+p105
+aVRT @jenlau219: Why did Allegiant #Technology choose Avaya #cloud platform?  @GoogleCloud https://t.co/2aEX3SyImP #avayanation https://t.co/\u2026
+p106
+aVIf there is anything available for cheap that I get is only some functionality on #cloud. #amazoncloud #googlecloud
+p107
+aVRT @TTintheCloud: #CLOUD NEWS: Is @googlecloud immature compared to @awscloud and @Azure ? Experts say yes https://t.co/ylC25pqe8e
+p108
+aV#CLOUD NEWS: Is @googlecloud immature compared to @awscloud and @Azure ? Experts say yes https://t.co/ylC25pqe8e
+p109
+aVRT @Scotty_Cloud: Google Cloud Platform Blog:How to build mobile apps on Google Cloud Platform https://t.co/ZcUHtlpR3p via @googlecloud
+p110
+aVRT @Scotty_Cloud: Google Cloud Platform Blog:How to build mobile apps on Google Cloud Platform https://t.co/ZcUHtlpR3p via @googlecloud
+p111
+aVGoogle Cloud Platform Blog:How to build mobile apps on Google Cloud Platform https://t.co/ZcUHtlpR3p via @googlecloud
+p112
+aVRT @nieleyde: #PaaS imitation is the sincerest form of flattery...isn't that how the saying goes @googlecloud. You're up @Azure! https://t.\u2026
+p113
+aV#PaaS imitation is the sincerest form of flattery...isn't that how the saying goes @googlecloud. You're up @Azure! https://t.co/oApqtXKpFu
+p114
+aV@googlecloud Cool ;)
+p115
+aV@googlecloud How do I delete my AppEngine app? I delete my project?
+p116
+aVRT @Tricerat: Simplify Printing TX works with #GoogleCloud Print. https://t.co/fpQ4Zpoy2D #RDS #mobileprinting #googleapps
+p117
+aVSimplify Printing TX works with #GoogleCloud Print. https://t.co/fpQ4Zpoy2D #RDS #mobileprinting #googleapps
+p118
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p119
+aVJDA Software is looking for: Software Engineer Int (#Java #Python #GoogleCloud)\u000ahttps://t.co/Hy6FRVYUXg #job
+p120
+aVRT @aiven_io: Bigger, faster, cheaper Aiven #PostgreSQL service plans https://t.co/JVjTOr2HI0 Available in @upcloud, @awscloud @digitalocea\u2026
+p121
+aVRT @Zyncrender: Are you based in #Vancouver? If so, be sure to check out @googlecloud's day of cloud-based talks on 23 Feb: https://t.co/Dt\u2026
+p122
+aVAre you based in #Vancouver? If so, be sure to check out @googlecloud's day of cloud-based talks on 23 Feb: https://t.co/DtH7v63yLL
+p123
+aVRT @TTintheCloud: Compare #cloud container services from @AWS @Azure and @googlecloud https://t.co/qT8wSslZ7A https://t.co/7PKw7Ahuup
+p124
+aVContainers are becoming the foundation for next gen apps. So, how does AWS, Azure, and googlecloud stack up?  https://t.co/EGsm5jdXQC
+p125
+aVCompare #cloud container services from @AWS @Azure and @googlecloud https://t.co/qT8wSslZ7A https://t.co/7PKw7Ahuup
+p126
+aVRT @AvereSystems: Join us at Media Solutions By @googlecloud on Feb 23 in Vancouver. Register here:\u000ahttps://t.co/F4pHjQqrqs
+p127
+aVJoin us at Media Solutions By @googlecloud on Feb 23 in Vancouver. Register here:\u000ahttps://t.co/F4pHjQqrqs
+p128
+aV4 tips to move from Office 365 to Google for Work (or vice versa) | https://t.co/6w7sYLpHpz | via @networkworld #office365 #googlecloud
+p129
+aVRT @ElMehdiMobi: #Google #Cloud Platform Blog: Mapping your #AWS knowledge to Google Cloud Platform https://t.co/QUGqWR2dvZ via @googlecloud
+p130
+aV@googlecloud - We are embracing @Cromebook for S's but are SAD about offline printers; Online suggestions are not helping #edtech
+p131
+aV#Google #Cloud Platform Blog: Mapping your #AWS knowledge to Google Cloud Platform https://t.co/QUGqWR2dvZ via @googlecloud
+p132
+aV@googlecloud Functions is a [...] compute solution [...] to create [...] functions that respond to cloud events \u2022\u000ahttps://t.co/JfOlTiSqEb
+p133
+aV@HuK_6 @SumatoDev We do Android, iOS, Windows Apps and we use @googlecloud for backend. And @HuK_6 i know you from @TechHubConnect
+p134
+aVRT @RAFFCorpOficial: My Tweeted Times News https://t.co/yywvtP5HwT - top stories by @AdSense, @googlecloud
+p135
+aVMy Tweeted Times News https://t.co/yywvtP5HwT - top stories by @AdSense, @googlecloud
+p136
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p137
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p138
+aV@googlecloud Innovative earnings!\u000aInternational!\u000aBinary Broker!\u000aStart your way to success\u000alink https://t.co/kfumwRhsBk
+p139
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p140
+aV@googlecloud Seems it is impossible to redirect HTTP to HTTPS traffic using a http load balancer, right? https://t.co/uy3M85iWAl. This sucks
+p141
+aVRT @Metztli_IT: #CloudFunctions Aims @ AWS Lambda:\u000aCode written in #JavaScript executes "in managed #Node.js enviro on @googlecloud" https:\u2026
+p142
+aVRT @honeyflower76: Google Cloud Platform Blog:Build a mobile gaming analytics platform https://t.co/GFfxGzLyTZ via @googlecloud
+p143
+aVRT @alfonsof: Your guide to building mobile apps with Google Cloud Platform https://t.co/hSlRVAuKgt https://t.co/Bo0NbmWMaO RT @googlecloud
+p144
+aV#CloudFunctions Aims @ AWS Lambda:\u000aCode written in #JavaScript executes "in managed #Node.js enviro on @googlecloud" https://t.co/nuHOVxfMTh
+p145
+aVGoogle Cloud Platform Blog:Build a mobile gaming analytics platform https://t.co/GFfxGzLyTZ via @googlecloud
+p146
+aVRT @rochtech: Serverless computing comes to Google Cloud Platform @googlecloud with Cloud Functions https://t.co/uF8ryRUeUN
+p147
+aVRT @rochtech: Serverless computing comes to Google Cloud Platform @googlecloud with Cloud Functions https://t.co/uF8ryRUeUN
+p148
+aVServerless computing comes to Google Cloud Platform @googlecloud with Cloud Functions https://t.co/uF8ryRUeUN
+p149
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p150
+aVRT @ConnectSteven: How to build #mobileapps on #Google Cloud Platform https://t.co/wHFcNrfasP via @googlecloud
+p151
+aVRT @alfonsof: Your guide to building mobile apps with Google Cloud Platform https://t.co/hSlRVAuKgt https://t.co/Bo0NbmWMaO RT @googlecloud
+p152
+aVHow to build #mobileapps on #Google Cloud Platform https://t.co/wHFcNrfasP via @googlecloud
+p153
+aVYour guide to building mobile apps with Google Cloud Platform https://t.co/hSlRVAuKgt https://t.co/Bo0NbmWMaO RT @googlecloud
+p154
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p155
+aVthanks MMM because now i can earn 100% per month  #MMMExtra #Bitcoin https://t.co/3QCN8LbpSH https://t.co/BseMrWXgQR
+p156
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p157
+aVRT @rosemobilecomp: Why did Allegiant #Technology choose an Avaya #cloud platform? Find out @GoogleCloud https://t.co/isea9O6RSw
+p158
+aVWhy did Allegiant #Technology choose an Avaya #cloud platform? Find out @GoogleCloud https://t.co/isea9O6RSw
+p159
+aVRT @googlecloud: \u26ab The story behind DeepMind\u2019s AlphaGo\u000a\u26ab\u26aa Powered by Google Cloud Platform\u000a\u26aa https://t.co/fBRyIUUxhA via @WIRED https://t.c\u2026
+p160
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p161
+aV@googlecloud bullshit  google cloud service
+p162
+aVRT @Avaya: Why did Allegiant #Technology choose an Avaya #cloud platform? Find out @GoogleCloud https://t.co/g3kvBLOPkk https://t.co/IakACR\u2026
+p163
+aVRT @iamssk: #finally pushed my #golang based experimental @telegram #bot on #GCE @googlecloud. My bot nudges me 4 drinking water, weather e\u2026
+p164
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p165
+aVRT @dmarcosl: JDA Software is looking for: Software Engineer Int (#Java #Python #GoogleCloud)\u000ahttps://t.co/RzCNxOMfxV #job
+p166
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p167
+aVRT @spotinst: Watch out!! Spoiler! @googlecloud @Azure https://t.co/znMC7Z70O0
+p168
+aV#finally pushed my #golang based experimental @telegram #bot on #GCE @googlecloud. My bot nudges me 4 drinking water, weather etc
+p169
+aV#How do I start a #golang program automatically once my #GCE instance has started on  @googlecloud #debian image, should I put  in init.d ?
+p170
+aVJDA Software is looking for: Software Engineer Int (#Java #Python #GoogleCloud)\u000ahttps://t.co/RzCNxOMfxV #job
+p171
+aV@MatthewScott @getiron @fortyfivan @googlecloud thanks!  Only took 4.5 years for the world to catch on. :)
+p172
+aVRT @Di_Ku: Datalab beta updated container available. Incl #tensorflow financial analysis sample, charting updates #googlecloud https://t.co\u2026
+p173
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p174
+aVRT @spotinst: Watch out!! Spoiler! @googlecloud @Azure https://t.co/znMC7Z70O0
+p175
+aV@googlecloud seems like some connectivity issues are affecting GCE&lt;-&gt;AWS. https://t.co/wQ3rjj8zDM cannot curl/ping/traceroute to AWS nodes.
+p176
+aVWatch out!! Spoiler! @googlecloud @Azure https://t.co/znMC7Z70O0
+p177
+aVRT @poweredbyaltnet: How to build mobile apps on Google Cloud Platform https://t.co/dZwfkcKmSi via @googlecloud @Firebase
+p178
+aVHow to build mobile apps on Google Cloud Platform https://t.co/dZwfkcKmSi via @googlecloud @Firebase
+p179
+aV@JordanHawker @arnoldsandoval Not for me, going to #GCPNEXT @GoogleCloud event at end of March 2016.
+p180
+aVSoftware Engineer Java Python Googlecloud Jobs #jobs #jobsearch https://t.co/DNyPpJBCJl
+p181
+aVRT @MatthewScott: Hey @getiron @fortyfivan congrats on the round. Liking @googlecloud #cloudFunctions is validating the market &amp; your platf\u2026
+p182
+aV@googlecloud latest release of Cloud Function, although in alpha but long awaited new possibilities for #IoT with @nest #CloudComputing
+p183
+aVHey @getiron @fortyfivan congrats on the round. Liking @googlecloud #cloudFunctions is validating the market &amp; your platform independence
+p184
+aVI think #Googlecloud should show a small popup saying:\u000a"Hey, do you know how to use #AWS? Read this!" =&gt; https://t.co/KqxI2cCnc2
+p185
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p186
+aV@googlecloud \u000aInnovative earnings!\u000aInternational!\u000aBinary Broker!\u000aStart your way to success\u000ahttps://t.co/kfumwRhsBk https://t.co/AfVkXqXn0n
+p187
+aV@googlecloud is https://t.co/D5XjtmbVy2 down? I'm getting a 500 error
+p188
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p189
+aVRT @MarkVozzo: The @GoogleCloud #BigData Blog launched last week. Learn why &amp; what's coming - https://t.co/WBEle2DKMq /thx @JoMaitlandTT
+p190
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p191
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p192
+aVRT @MarkVozzo: The @GoogleCloud #BigData Blog launched last week. Learn why &amp; what's coming - https://t.co/WBEle2DKMq /thx @JoMaitlandTT
+p193
+aVMake money at MMMGlobal get up 100 % per month   #MMMExtra #Bitcoin https://t.co/hMyPAuEXn2
+p194
+aVWow, I hadn\u2019t heard of JGroup in a long long while ! Curious to see how it can run using GCS. https://t.co/QYfy23G6AR
+p195
+aVRT @MarkVozzo: The @GoogleCloud #BigData Blog launched last week. Learn why &amp; what's coming - https://t.co/WBEle2DKMq /thx @JoMaitlandTT
+p196
+aV@googlecloud want to collab on a kick-ass hackathon series in Manhattan &amp; Brooklyn?! ;)
+p197
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p198
+aVThe @GoogleCloud #BigData Blog launched last week. Learn why &amp; what's coming - https://t.co/WBEle2DKMq /thx @JoMaitlandTT
+p199
+asI2
+(lp200
+VRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p201
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p202
+aVRT @googlecloudspin: Thanks for visiting us at #DevFestMN at @gdgtc @theolikemayo! Here\u2019s your awesome spin powered by @googlecloud https:/\u2026
+p203
+aVRT @googlecloudspin: Thanks for visiting us at #DevFestMN at @gdgtc @theolikemayo! Here\u2019s your awesome spin powered by @googlecloud https:/\u2026
+p204
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p205
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p206
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p207
+aVRT @WomenTechmakers: We're celebrating #IWD16 across the world. Which summit will you attend? Apply now: https://t.co/fvRo7ZcKZO #WTM16 htt\u2026
+p208
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p209
+aVRT @AndrewHolmes82: Google Cloud Platform Blog:Mapping your knowledge to Google Cloud Platform https://t.co/4GQOI2IThr via @googlecloud #cl\u2026
+p210
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p211
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p212
+aVGoogle Cloud Platform Blog:Mapping your knowledge to Google Cloud Platform https://t.co/4GQOI2IThr via @googlecloud #cloud #startup
+p213
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p214
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p215
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p216
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p217
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p218
+aV@Bitnami Parse Server images 1-click on @AWScloud, @Azure, @Oracle Cloud, @DigitalOcean, @GoogleCloud https://t.co/xij6Ay5BsR
+p219
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p220
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p221
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p222
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p223
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p224
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p225
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p226
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p227
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p228
+aVRT @Avaya: Why did Allegiant #Technology choose an Avaya #cloud platform? Find out @GoogleCloud https://t.co/g3kvBLOPkk https://t.co/IakACR\u2026
+p229
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p230
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p231
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p232
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p233
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p234
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p235
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p236
+aVVery good guide!  https://t.co/46J57bSYPm
+p237
+aVFocus on your app, leave the plumbing to the plumbers https://t.co/z7syYYMnwz
+p238
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p239
+aVRT @googlecloud: Your guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/d\u2026
+p240
+aVYour guide to building mobile apps with GCP\u2014design patterns &amp; sample code included. https://t.co/7Tp0oiaywb https://t.co/dOijsnWn2g
+p241
+aVRT @nicolesherburne: 2GB @googlecloud space FREE for completing a short security review--I tried it &amp; it was easy! \u000a\u000ahttps://t.co/w7drQ6jHv\u2026
+p242
+aV2GB @googlecloud space FREE for completing a short security review--I tried it &amp; it was easy! \u000a\u000ahttps://t.co/w7drQ6jHvh #SaferInternetDay
+p243
+aVRT @manojlds: Ah, so this is @googlecloud 's equivalent for AWS Lambda\u000ahttps://t.co/vymdLip5Hg
+p244
+aVRT @manojlds: Ah, so this is @googlecloud 's equivalent for AWS Lambda\u000ahttps://t.co/vymdLip5Hg
+p245
+aVRT @manojlds: Ah, so this is @googlecloud 's equivalent for AWS Lambda\u000ahttps://t.co/vymdLip5Hg
+p246
+aVAh, so this is @googlecloud 's equivalent for AWS Lambda\u000ahttps://t.co/vymdLip5Hg
+p247
+aVGoogle Mimics #AWS Lamda with #GoogleCloud Functions - Voxxed https://t.co/p4v98cGhYn https://t.co/Yc0dzVi3zY
+p248
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p249
+aVRT @jenlau219: Why did Allegiant #Technology choose Avaya #cloud platform?  @GoogleCloud https://t.co/2aEX3SyImP #avayanation https://t.co/\u2026
+p250
+aVWhy did Allegiant #Technology choose Avaya #cloud platform?  @GoogleCloud https://t.co/2aEX3SyImP #avayanation https://t.co/jXRoyyQbAH
+p251
+aVRT @Avaya: Why did Allegiant #Technology choose an Avaya #cloud platform? Find out @GoogleCloud https://t.co/g3kvBLOPkk https://t.co/IakACR\u2026
+p252
+aVWhy did Allegiant #Technology choose an Avaya #cloud platform? Find out @GoogleCloud https://t.co/g3kvBLOPkk https://t.co/IakACRmGFa
+p253
+aVRT @chimerasaurus: This is an excellent overview &amp; vision for the Hadoop ecosystem. Also, happy to see @googlecloud Dataproc mentioned! htt\u2026
+p254
+aVDatalab beta updated container available. Incl #tensorflow financial analysis sample, charting updates #googlecloud https://t.co/V7j6SmcMlo
+p255
+aVthis correlates with the public cloud market #AWS is #1, #Azure is #2 #GoogleCloud, #BlueMix &amp; #Salesforce share #3 https://t.co/IGqWj7TcJb
+p256
+aVThis is an excellent overview &amp; vision for the Hadoop ecosystem. Also, happy to see @googlecloud Dataproc mentioned! https://t.co/QyJIhzhHQ5
+p257
+aVRT @GoogleCloudNews: #GCPNEXT 2016: A sneak peak behind the scenes https://t.co/50Yu9sY0DL @googlecloud https://t.co/BSbdvAZzWu
+p258
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p259
+aVRT @DaxGulje: #Google cloud platform for AWS pros? @googlecloud comparison against @awscloud -how they differ,how they are similar https://\u2026
+p260
+aVRT @DaxGulje: #Google cloud platform for AWS pros? @googlecloud comparison against @awscloud -how they differ,how they are similar https://\u2026
+p261
+aV#Google cloud platform for AWS pros? @googlecloud comparison against @awscloud -how they differ,how they are similar https://t.co/rxfBBo1P7u
+p262
+aVRT @jameshartig: I'm convinced that @googlecloud for startups is actually just a joke. Been trying to apply for months with no response.
+p263
+aVI'm convinced that @googlecloud for startups is actually just a joke. Been trying to apply for months with no response.
+p264
+aVRT @glaforge: After @awscloud\u2019s Lambda functions, looks like we\u2019ll also have @googlecloud Cloud Functions! Cool!\u000ahttps://t.co/Aqgtd4cSjO
+p265
+aVRT @gdgphilippines: Interested in a GCP Next Extended event? Please answer our poll at https://t.co/quuLCCMP8y #gcpnext #GoogleCloud #gdg #\u2026
+p266
+aVInterested in a GCP Next Extended event? Please answer our poll at https://t.co/quuLCCMP8y #gcpnext #GoogleCloud #gdg #gdgph
+p267
+aVI\u2019m thrilled to work with @2600hertz, @bandwidth, @freeswitch, @intercom, @SlackHQ, @googlecloud and @digitalocean on our latest product.
+p268
+aVRT @errordeveloper: #KubernetesAnywhere supports most popular clouds [https://t.co/8Mwq07Jllg] (@KubernetesIO #WeaveNet #Docker #GoogleClou\u2026
+p269
+aVRT @BruceB_Google: Hear why are companies like Coca Cola are turning to @GoogleCloud to build &amp; run mission-critical apps https://t.co/jvPJ\u2026
+p270
+aVHear why are companies like Coca Cola are turning to @GoogleCloud to build &amp; run mission-critical apps https://t.co/jvPJiwZmnh #GCPNEXT
+p271
+aVRT @bretmcg: Arrow of free @googlecloud and @Firebase  stickers: new way to get devs to come chat with us. @SRobTweets #DevFestMN https://t\u2026
+p272
+aVRT @errordeveloper: #KubernetesAnywhere supports most popular clouds [https://t.co/8Mwq07Jllg] (@KubernetesIO #WeaveNet #Docker #GoogleClou\u2026
+p273
+aVThe legendary @yosit will be sharing wisdom about how Yallo is making phone calls smarter with BigQuery. Don't miss! https://t.co/Txh8HOZAk7
+p274
+aVRT @davenielsen: Cloud Functions ... @GoogleCloud's answer to @AWSCloud Lambda https://t.co/j53ANNU0ew
+p275
+aV#KubernetesAnywhere supports most popular clouds [https://t.co/8Mwq07Jllg] (@KubernetesIO #WeaveNet #Docker #GoogleCloud #AWS #DigitalOcean)
+p276
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p277
+aV@googlecloud just released its answer to @AWS #Lambda - but how do their container services compare? https://t.co/qT8wSslZ7A  @Azure
+p278
+aV@googlecloud Brings #Serverless Computing To Its #Cloud Platform https://t.co/Ty35CjH65s
+p279
+aVRT @futurefortz: Some @googlecloud for @awscloud pros. https://t.co/I6zvD8d2ha
+p280
+aVRT @datagenius: Google Cloud Platform Blog:Dataflow and open source - proposal to join the Apache Incubator https://t.co/GAB9hbC3ov via @go\u2026
+p281
+aVRT @datagenius: Google Cloud Platform Blog:Dataflow and open source - proposal to join the Apache Incubator https://t.co/GAB9hbC3ov via @go\u2026
+p282
+aVRT @datagenius: Google Cloud Platform Blog:Dataflow and open source - proposal to join the Apache Incubator https://t.co/GAB9hbC3ov via @go\u2026
+p283
+aVSome @googlecloud for @awscloud pros. https://t.co/I6zvD8d2ha
+p284
+aVRT @datagenius: Google Cloud Platform Blog:Dataflow and open source - proposal to join the Apache Incubator https://t.co/GAB9hbC3ov via @go\u2026
+p285
+aVWant to learn how to get started on Google Cloud Platform?  Free classes available.   https://t.co/hcUvUt7zom
+p286
+aVGoogle Cloud Platform Blog:Dataflow and open source - proposal to join the Apache Incubator https://t.co/GAB9hbC3ov via @googlecloud
+p287
+aVRT @aiven_io: Bigger, faster, cheaper Aiven #PostgreSQL service plans https://t.co/JVjTOr2HI0 Available in @upcloud, @awscloud @digitalocea\u2026
+p288
+aVBigger, faster, cheaper Aiven #PostgreSQL service plans https://t.co/JVjTOr2HI0 Available in @upcloud, @awscloud @digitalocean @googlecloud
+p289
+aVRT @saturnism: if you have questions/interests in #kubernetes or @googlecloud - look for me in exhibition hall, blue Google tshirt - let's \u2026
+p290
+aV@googlecloud one more dramabaj joined mad party.
+p291
+aVGoogle Cloud Functions: Google antwortet auf Amazons Lambda #GoogleCloud https://t.co/dxlx2Eo36e https://t.co/b3r990Xibl
+p292
+aVif you have questions/interests in #kubernetes or @googlecloud - look for me in exhibition hall, blue Google tshirt - let's chat! #jfokus.
+p293
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p294
+aVRT @saturnism: #jfokus easiest way to try #kubernetes on @googlecloud container engine\u000ahttps://t.co/thruVBsLbu\u000a&amp; try code lab:\u000ahttps://t.co\u2026
+p295
+aV#jfokus easiest way to try #kubernetes on @googlecloud container engine\u000ahttps://t.co/thruVBsLbu\u000a&amp; try code lab:\u000ahttps://t.co/EUZgQ87V4m
+p296
+aVRT @googlecloud: How to store, host, and manage your #JGroups cluster member data with Cloud Storage: https://t.co/IZwtTEf62C https://t.co/\u2026
+p297
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p298
+aV@fullbundle You guys can spin a free server for 14 days on @digitalocean &amp; 3 days on @awscloud @Vultr &amp; @googlecloud respectively @Cloudways
+p299
+aVRT @googlecloud: Get the knowledge you need to start building on GCP. Join one of our free classes: https://t.co/JDUnKAdY3l https://t.co/Iz\u2026
+p300
+asI3
+(lp301
+VSoftware Engineer Int Java Python Googlecloud Jobs #jobs #jobsearch https://t.co/tEHLdWF4ZA
+p302
+aVRT @mhausenblas: Now @googlecloud also entering the 'flock of birds' space with Cloud Functions:\u000a\u000ahttps://t.co/0wFKfe2ndn\u000a\u000a#serverless #Clo\u2026
+p303
+aVRT @GoogleCloudNews: #GCPNEXT 2016: A sneak peak behind the scenes https://t.co/50Yu9sY0DL @googlecloud https://t.co/BSbdvAZzWu
+p304
+aVRT @SADASystems: #GCPNEXT 2016: A sneak peak behind the scenes https://t.co/11WCiH5JZq @googlecloud https://t.co/ARwl5TFD9i
+p305
+aVRT @saturnism: Sup @ironshay ! Ping me abt @googlecloud !
+p306
+aV#GCPNEXT 2016: A sneak peak behind the scenes https://t.co/50Yu9sY0DL @googlecloud https://t.co/BSbdvAZzWu
+p307
+aV#GCPNEXT 2016: A sneak peak behind the scenes https://t.co/11WCiH5JZq @googlecloud https://t.co/ARwl5TFD9i
+p308
+aVSup @ironshay ! Ping me abt @googlecloud !
+p309
+aVSoftware Engineer Java Python Googlecloud Jobs #jobs #jobsearch https://t.co/DNyPpJBCJl
+p310
+aVRT @mhausenblas: Now @googlecloud also entering the 'flock of birds' space with Cloud Functions:\u000a\u000ahttps://t.co/0wFKfe2ndn\u000a\u000a#serverless #Clo\u2026
+p311
+aVRT @presactlyalicia: Come back in time with me to January! The @googlecloud news roundup is finally here. https://t.co/6nthO4WbRs
+p312
+aVCome back in time with me to January! The @googlecloud news roundup is finally here. https://t.co/6nthO4WbRs
+p313
+aVRT @alex_woodie: Google Cloud Platform Blog:Another Big Data blog, in 2016? Really? Why? https://t.co/ow7WVpjaf3 via @googlecloud
+p314
+aVRT @tryoften: .@googlecloud we hope Lil B (The Based God) curses you just like he did KD &amp; James Harden...
+p315
+aVRT @tryoften: .@googlecloud we hope Lil B (The Based God) curses you just like he did KD &amp; James Harden...
+p316
+aVRT @tryoften: .@googlecloud You've disturbed our creative process
+p317
+aVRT @tryoften: .@googlecloud You've disturbed our creative process
+p318
+aVRT @tryoften: .@googlecloud You've wrongfully suspended our acc b/c of your own elasticsearch push to deploy feature AND deleted all of our\u2026
+p319
+aVRT @tryoften: .@googlecloud we hope Lil B (The Based God) curses you just like he did KD &amp; James Harden...
+p320
+aVRT @tryoften: .@googlecloud You've disturbed our creative process
+p321
+aVRT @tryoften: .@googlecloud You've disturbed our creative process
+p322
+aVRT @tryoften: Major Key Alert: Don't use @googlecloud https://t.co/kS9kDX4Eyg
+p323
+aVRT @tryoften: .@googlecloud You've disturbed our creative process
+p324
+aVRT @tryoften: .@googlecloud You've wrongfully suspended our acc b/c of your own elasticsearch push to deploy feature AND deleted all of our\u2026
+p325
+aVRT @googlecloud: Register for #GCPNEXT by tomorrow to catch the early \U0001f425 rate before it\u2019s gone: https://t.co/lnTsrTdeSM https://t.co/SngfSvW\u2026
+p326
+aVRT @googlecloud: How fast is BigQuery? We\u2019ll show you by querying the Wiki100B table. All 100B rows of it. https://t.co/C2NQXlXjb8 https://\u2026
+p327
+aVRT @tryoften: .@googlecloud You've wrongfully suspended our acc b/c of your own elasticsearch push to deploy feature AND deleted all of our\u2026
+p328
+aVRT @tryoften: .@googlecloud You've disturbed our creative process
+p329
+aVRT @tryoften: Major Key Alert: Don't use @googlecloud https://t.co/kS9kDX4Eyg
+p330
+aVRT @tryoften: .@googlecloud we hope Lil B (The Based God) curses you just like he did KD &amp; James Harden...
+p331
+aVRT @tryoften: .@googlecloud You've wrongfully suspended our acc b/c of your own elasticsearch push to deploy feature AND deleted all of our\u2026
+p332
+aV.@googlecloud You've disturbed our creative process
+p333
+aVMajor Key Alert: Don't use @googlecloud https://t.co/kS9kDX4Eyg
+p334
+aV@bretmcg @googlecloud @Firebase @SRobTweets It worked for me on Saturday!
+p335
+aV.@googlecloud we hope Lil B (The Based God) curses you just like he did KD &amp; James Harden...
+p336
+aV.@googlecloud You've wrongfully suspended our acc b/c of your own elasticsearch push to deploy feature AND deleted all of our instances...
+p337
+aV#Google #CloudPlatform - Total package of Mastery\U0001f603 https://t.co/16DwGtXffU #GoogleCloud #CloudComputing #cloud https://t.co/WW9DKOXGEQ
+p338
+aVRT @davidmytton: Would love to see the list of internal Google tech that is still to be productised @googlecloud - can't do it fast enough!
+p339
+aVWould love to see the list of internal Google tech that is still to be productised @googlecloud - can't do it fast enough!
+p340
+aVRT @francesc: The most productive 30 seconds of the day: how to config and use #gcloud tab completion with #zsh!\u000a@googlecloud\u000ahttp://t.co/5\u2026
+p341
+aVRT @bretmcg: Arrow of free @googlecloud and @Firebase  stickers: new way to get devs to come chat with us. @SRobTweets #DevFestMN https://t\u2026
+p342
+aVArrow of free @googlecloud and @Firebase  stickers: new way to get devs to come chat with us. @SRobTweets #DevFestMN https://t.co/YpkCRpuCfd
+p343
+aVRT @Di_Ku: Think it's obvious? Then why pay for cluster sized for close to peak? OLAP or Hadoop/Spark, #googlecloud can help. https://t.co/\u2026
+p344
+aV@googlecloud platform Global user conference GCPNext16 on Mar 23-24 at San Francisco! Looks interesting..
+p345
+aVRT @mhausenblas: Now @googlecloud also entering the 'flock of birds' space with Cloud Functions:\u000a\u000ahttps://t.co/0wFKfe2ndn\u000a\u000a#serverless #Clo\u2026
+p346
+aVRT @nfonrose: Google releases an alpha version of « #GoogleCloud #Functions », an AWS Lambda equivalent. https://t.co/16hAneD92P
+p347
+aVThink it's obvious? Then why pay for cluster sized for close to peak? OLAP or Hadoop/Spark, #googlecloud can help. https://t.co/qyUAjBzw3D
+p348
+aVRT @mohsin_imam: Taking cancer research to the next level using @googlecloud https://t.co/3JanK4RnAX #bigdata #GCPNEXT
+p349
+aVRT @mohsin_imam: Taking cancer research to the next level using @googlecloud https://t.co/3JanK4RnAX #bigdata #GCPNEXT
+p350
+aVTaking cancer research to the next level using @googlecloud https://t.co/3JanK4RnAX #bigdata #GCPNEXT
+p351
+aV@googlecloud https://t.co/tYTX17LOVd check this link
+p352
+aVRT @CloudCruiserInc: New BLOG explores #cloud tagging strategies and challenges. #AWS #Azure #googlecloud https://t.co/zMbZthH7sT https://t\u2026
+p353
+aVRT @stevecrozz: Here comes the new PaaS. @aws lambda for Google? @googlecloud functions https://t.co/nLgrgJF99f
+p354
+aVNew BLOG explores #cloud tagging strategies and challenges. #AWS #Azure #googlecloud https://t.co/zMbZthH7sT https://t.co/Muc0a1NICp
+p355
+aVHere comes the new PaaS. @aws lambda for Google? @googlecloud functions https://t.co/nLgrgJF99f
+p356
+aVRT @Style_Linda: android will kaak on you if auto update your data on googlecloud...\u201c@Evacuate_R_R: Voice RecordinQ will Get u in Kak Delet\u2026
+p357
+aVRT @TTintheCloud: Compare #cloud container services from @AWS @Azure and @googlecloud https://t.co/qT8wSslZ7A
+p358
+aVRT @CloudCruiserInc: New BLOG explores #cloud tagging strategies and challenges. #AWS #Azure #googlecloud https://t.co/zMbZthH7sT https://t\u2026
+p359
+aVandroid will kaak on you if auto update your data on googlecloud...\u201c@Evacuate_R_R: Voice RecordinQ will Get u in Kak Delete that \u000a#NyanNyan\u201d
+p360
+aVRT @CloudCruiserInc: New @CloudCruiserInc BLOG explores #cloud tagging strategies and challenges. #AWS #Azure #googlecloud  MbZthH7sT https\u2026
+p361
+aVRT @TTintheCloud: Compare #cloud container services from @AWS @Azure and @googlecloud https://t.co/qT8wSslZ7A
+p362
+aVCompare #cloud container services from @AWS @Azure and @googlecloud https://t.co/qT8wSslZ7A
+p363
+aV@googlecloud https://t.co/tYTX17LOVd check this link
+p364
+aVRT @nfonrose: Google releases an alpha version of « #GoogleCloud #Functions », an AWS Lambda equivalent. https://t.co/16hAneD92P
+p365
+aV@brada @googlecloud Nice!
+p366
+aV@Avaya - launch of mid market #cloud #UC -including support for @GoogleCloud https://t.co/4rpp6YKh0Q #ucoms #UCaaS #collaboration
+p367
+aVRT @nfonrose: Google releases an alpha version of « #GoogleCloud #Functions », an AWS Lambda equivalent. https://t.co/16hAneD92P
+p368
+aVRT @TTintheCloud: ICYMI: The Container race heats up between @AWS and @googlecloud https://t.co/CQ517jxLfW https://t.co/7gVE95GjRI
+p369
+aVSuper! #googlecloud functions https://t.co/RffkWoZ9Pg
+p370
+aVICYMI: The Container race heats up between @AWS and @googlecloud https://t.co/CQ517jxLfW https://t.co/7gVE95GjRI
+p371
+aV@imtheoperator @googlecloud Yes!  In fact it works without *any* source at all (just give file and line number)
+p372
+aVRT @jeanbrierre: Evaluating @Azure #Container Service vs. @googlecloud and @awscloud https://t.co/Dsix9uYC8c \u2026 https://t.co/PmqZYxQPMd
+p373
+aVRT @WAGmob: Tour : Google Developer Console: How to Restore Virtual Machine From Snapshot on Google Cloud @googlecloud... https://t.co/s9hT\u2026
+p374
+aVEvaluating @Azure #Container Service vs. @googlecloud and @awscloud https://t.co/Dsix9uYC8c \u2026 https://t.co/PmqZYxQPMd
+p375
+aVNew @CloudCruiserInc BLOG explores #cloud tagging strategies and challenges. #AWS #Azure #googlecloud  MbZthH7sT https://t.co/Muc0a1NICp
+p376
+aVGoogle Developer Console: How to Configure DNS on Google Cloud @googlecloud @google https://t.co/0Q7bDGFjeW
+p377
+aVRT @WAGmob: Tour : Google Developer Console: How to Create Group of Instances on Google Cloud @googlecloud @google https://t.co/GmOI5k7doV
+p378
+aVRT @WAGmob: Tour : Google Developer Console: How to Connect Linux Virtual Machine on Google Cloud @googlecloud @google https://t.co/7hccD0v\u2026
+p379
+aVRT @WAGmob: Tour : Google Developer Console: How to Add Block Storage in Virtual Machine on Google Cloud @googlecloud... https://t.co/QdqTk\u2026
+p380
+aVRT @WAGmob: Tour : Google Developer Console: How to Change the Machine Type on Google Cloud @googlecloud @google https://t.co/SfVmmjnx41
+p381
+aVRT @WAGmob: Tour : Google Developer Console: How to Configure DNS on Google Cloud  @googlecloud @google https://t.co/LAsH4o2K1y
+p382
+aVGoogle Developer Console: How to Restore Virtual Machine From Snapshot on Google Cloud @googlecloud @google https://t.co/VifvrASE2W
+p383
+aVRT @WAGmob: Tour : Google Developer Console: How to Restore Virtual Machine From Snapshot on Google Cloud @googlecloud... https://t.co/s9hT\u2026
+p384
+aVRT @WAGmob: Google Developer Console: How to Reserve a Static IP For Your Virtual Machine on Google Cloud @googlecloud @google https://t.co\u2026
+p385
+aVRT @nfonrose: Google releases an alpha version of « #GoogleCloud #Functions », an AWS Lambda equivalent. https://t.co/16hAneD92P
+p386
+aVGoogle Developer Console: How to Take Snapshot of Existing Virtual Machine on Google Cloud @googlecloud @google https://t.co/1sPe6hTPC1
+p387
+aVTour : Google Developer Console: How to Configure DNS on Google Cloud  @googlecloud @google https://t.co/LAsH4o2K1y
+p388
+aVRT @nfonrose: Google releases an alpha version of « #GoogleCloud #Functions », an AWS Lambda equivalent. https://t.co/16hAneD92P
+p389
+aVGoogle Developer Console: How to Change the Machine Type @googlecloud @google https://t.co/T3Tib9jRBI
+p390
+aVTour : Google Developer Console: How to Restore Virtual Machine From Snapshot on Google Cloud @googlecloud... https://t.co/s9hTlnWqbr
+p391
+aVGoogle Developer Console: How to Reserve a Static IP For Your Virtual Machine on Google Cloud @googlecloud @google https://t.co/ENtkeDuNYm
+p392
+aVRT @WAGmob: Google Developer Console: How to Add Block Storage in Virtual Machine on Google Cloud @googlecloud @google https://t.co/w0dsYam\u2026
+p393
+aV#Unikernel on @Googlecloud Compute Engine (#GCE) (Part 1)\u200a\u2014\u200aRunning an #OSv Unikernel #Tomcat Server\u000ahttps://t.co/vvioLcsD0w\u000a#Cloud
+p394
+aVGoogle Developer Console: How to Add and Delete Firewall Rule For Virtual Machine on Google Cloud @googlecloud @g... https://t.co/XRkAjmgEYm
+p395
+aVTour : Google Developer Console: How to Change the Machine Type on Google Cloud @googlecloud @google https://t.co/SfVmmjnx41
+p396
+aVJDA Software is looking for: Software Engineer Int (#Java #Python #GoogleCloud)\u000ahttps://t.co/qzWS11p28O #job
+p397
+aVGoogle Developer Console: How to Add Block Storage in Virtual Machine on Google Cloud @googlecloud @google https://t.co/w0dsYamWkc
+p398
+aVRT @WAGmob: Google Developer Console: How to Generate and Add SSH Key For Linux Virtual Machine on Google Cloud @googlecloud ... https://t.\u2026
+p399
+aVGoogle Developer Console: How to Connect Linux Virtual Machine on Google Cloud @googlecloud @google https://t.co/POkbKCxPgw
+p400
+aVIn partner update from @googlecloud: "Rocket Speed to #MATLAB using Techila and Google Cloud Platform": https://t.co/lFeRFHHujt
+p401
+asI4
+(lp402
+V@googlecloudspin @gdgtc @TheoLikeMayo @googlecloud Wow, did you see this @the_nerdery ?
+p403
+aVRT @kagasser: Just finished a fantastic day of @kubernetesio training with @kelseyhightower. Big thanks @google &amp; @googlecloud! https://t.c\u2026
+p404
+aVRT @handler: Day One @quip (with mostly accidental mostly matching manicure \U0001f485, and stealth @googlecloud \u2601 callback) https://t.co/PivVlDoUc2
+p405
+aV@brada @googlecloud *Magic*. Will it work with an externally hosted repo such as bitbucket or github, like log stack traces?
+p406
+aVHow much is Google Cloud? $165/months idle no traffic Cloud SQL + GAE. Google Support advises to stop #GoogleCloudPlatform #googlecloud
+p407
+aVDay One @quip (with mostly accidental mostly matching manicure \U0001f485, and stealth @googlecloud \u2601 callback) https://t.co/PivVlDoUc2
+p408
+aVRT @jasonadriaan: Really enjoying playing around with @googlecloud. Well documented, packed with features and all-round awesome.
+p409
+aVReally enjoying playing around with @googlecloud. Well documented, packed with features and all-round awesome.
+p410
+aVRT @johnnybrianryan: Yellowfin unveils data source connector for Google Cloud SQL platform @YellowfinBI @googlecloud https://t.co/AlV7QzGFxb
+p411
+aVRT @kagasser: Just finished a fantastic day of @kubernetesio training with @kelseyhightower. Big thanks @google &amp; @googlecloud! https://t.c\u2026
+p412
+aVYellowfin unveils data source connector for Google Cloud SQL platform @YellowfinBI @googlecloud https://t.co/AlV7QzGFxb
+p413
+aVRT @Zbjorn: https://t.co/4HX1K6Vw59 Google Cloud Functions! The race is on against @awscloud Lambda. @googlecloud
+p414
+aVRT @brada: We updated the @googlecloud Production Debugger UI Now for Go, Python Node and Java and works with local source!\u000ahttps://t.co/sG\u2026
+p415
+aVWe updated the @googlecloud Production Debugger UI Now for Go, Python Node and Java and works with local source!\u000ahttps://t.co/sGsmRJXnSc
+p416
+aVRT @MarkVozzo: Attn #Developers: Want to learn more abt @GoogleCloud 's #CloudVision API? Nice review by @alex_casalboni https://t.co/pgail\u2026
+p417
+aVRT @Zbjorn: https://t.co/4HX1K6Vw59 Google Cloud Functions! The race is on against @awscloud Lambda. @googlecloud
+p418
+aVhttps://t.co/4HX1K6Vw59 Google Cloud Functions! The race is on against @awscloud Lambda. @googlecloud
+p419
+aVRT @kagasser: Just finished a fantastic day of @kubernetesio training with @kelseyhightower. Big thanks @google &amp; @googlecloud! https://t.c\u2026
+p420
+aVRT @alex_woodie: Google Cloud Platform Blog:Another Big Data blog, in 2016? Really? Why? https://t.co/ow7WVpjaf3 via @googlecloud
+p421
+aVRT @ddgnani: @kelseyhightower @google @googlecloud Kelsey not only showed how Kubernetes work but also many docker internals. @CapitalOne l\u2026
+p422
+aVGoogle Cloud Platform Blog:Another Big Data blog, in 2016? Really? Why? https://t.co/ow7WVpjaf3 via @googlecloud
+p423
+aVRT @LusciousPear: I'm consistently seeing GETs from @googlecloud storage 2-5x faster than S3. niiiice
+p424
+aVJust finished a fantastic day of @kubernetesio training with @kelseyhightower. Big thanks @google &amp; @googlecloud! https://t.co/LXXJqulO0u
+p425
+aVRT @ddgnani: @kelseyhightower @google @googlecloud Kelsey not only showed how Kubernetes work but also many docker internals. @CapitalOne l\u2026
+p426
+aVRT @jeffreydamick: Thanks @kelseyhightower for the great @kubernetesio session at cap1 cc/ @googlecloud
+p427
+aV@matt_good @googlecloud hmmm...I think it is because they "know"  you will be back! why go through the fuss of re-entering the data? :-D
+p428
+aV@googlecloud @kelseyhightower What are the dev guidance for @kubernetesio? Things like the app is supposed to do healthchecks, log to stdout
+p429
+aVGreat #kubernetes workshop today at @capitaloneio by @kelseyhightower @google @googlecloud @kubernetesio https://t.co/jKSl1mkiUD
+p430
+aVAwesome session on kube @kelseyhightower @google @googlecloud @kubernetesio @k8s https://t.co/VI1bTozSEk
+p431
+aV@kelseyhightower @google @googlecloud Kelsey not only showed how Kubernetes work but also many docker internals. @CapitalOne loved it
+p432
+aV@googlecloud @kelseyhightower Great session on Kubernetes and containers with Kelsey. Lot's of good information and go me thinking...hmm
+p433
+aVThanks @kelseyhightower for the great @kubernetesio session at cap1 cc/ @googlecloud
+p434
+aV@kelseyhightower @googlecloud @google enjoyed the @kubernetesio training today!  lots of possibilities! #k8s #containers
+p435
+aV@kelseyhightower @google @googlecloud awesome Kubernetes workshop from Kelsey!
+p436
+aVRT @matt_good: So @googlecloud doesn't allow deleting Billing Accounts? I can close the account, but they don't allow removing the credit c\u2026
+p437
+aVSo @googlecloud doesn't allow deleting Billing Accounts? I can close the account, but they don't allow removing the credit card info.
+p438
+aVRT @TTintheCloud: Compare #cloud container services from @AWS @Azure and @googlecloud https://t.co/qT8wSslZ7A https://t.co/cACgCz4mdV
+p439
+aVCompare #cloud container services from @AWS @Azure and @googlecloud https://t.co/qT8wSslZ7A https://t.co/cACgCz4mdV
+p440
+aV@googlecloud Ah! Apparently you're using 503 instead of 429 whenever I'm being rate limited.
+p441
+aVRT @googlecloud: How fast is BigQuery? We\u2019ll show you by querying the Wiki100B table. All 100B rows of it. https://t.co/C2NQXlXjb8 https://\u2026
+p442
+aVRT @thirdeyecss: Dataflow/Beam &amp; Spark: A Programming Model Comparison https://t.co/0gykSIWRWe by @googlecloud #gcp #google #bigdata
+p443
+aVRT @BigDataCloud: Dataflow/Beam &amp; Spark: A Programming Model Comparison https://t.co/lhruTC9xim by @googlecloud #gcp #google #bigdata
+p444
+aVDataflow/Beam &amp; Spark: A Programming Model Comparison https://t.co/FpiFLKQkwW by @googlecloud #gcp #google #bigdata
+p445
+aVDataflow/Beam &amp; Spark: A Programming Model Comparison https://t.co/0gykSIWRWe by @googlecloud #gcp #google #bigdata
+p446
+aVRT @thirdeyecss_3e: Dataflow/Beam &amp; Spark: A Programming Model Comparison https://t.co/AOY5t9oS6P by @googlecloud #gcp #google #bigdata htt\u2026
+p447
+aVRT @BigDataCloud: Dataflow/Beam &amp; Spark: A Programming Model Comparison https://t.co/lhruTC9xim by @googlecloud #gcp #google #bigdata
+p448
+aVRT @BigDataCloud: Dataflow/Beam &amp; Spark: A Programming Model Comparison https://t.co/mcKEqHW0yy by @googlecloud #gcp #google #bigdata https\u2026
+p449
+aVRT @BigDataCloud: Dataflow/Beam &amp; Spark: A Programming Model Comparison https://t.co/mcKEqHW0yy by @googlecloud #gcp #google #bigdata https\u2026
+p450
+aVDataflow/Beam &amp; Spark: A Programming Model Comparison https://t.co/AOY5t9oS6P by @googlecloud #gcp #google #bigdata https://t.co/Um7Q6iH64b
+p451
+aVDataflow/Beam &amp; Spark: A Programming Model Comparison https://t.co/lhruTC9xim by @googlecloud #gcp #google #bigdata
+p452
+aVRT @BigDataCloud: Dataflow/Beam &amp; Spark: A Programming Model Comparison https://t.co/mcKEqHW0yy by @googlecloud #gcp #google #bigdata https\u2026
+p453
+aVDataflow/Beam &amp; Spark: A Programming Model Comparison https://t.co/mcKEqHW0yy by @googlecloud #gcp #google #bigdata https://t.co/ddzL53xLyK
+p454
+aV@PaulLamb @googlecloud can you clarify?  Is this the Kubernetes Ingress API or the Google Load Balancer?  @thockin
+p455
+aVRT @BeJOSolutions: GoogleCloudPlatform @googlecloud  https://t.co/2LiZigMC7h
+p456
+aVGoogleCloudPlatform @googlecloud  https://t.co/2LiZigMC7h
+p457
+aV@MimmingCodes @shakamunyi @googlecloud @angelbeat I would but I am on the other side coast. Come soon to Philla !!
+p458
+aVRT @MimmingCodes: I'm in Florida this week. 4 cities, 4 days giving @googlecloud overviews at @angelbeat seminars: https://t.co/Df9lVcqZii \u2026
+p459
+aVRT @MimmingCodes: I'm in Florida this week. 4 cities, 4 days giving @googlecloud overviews at @angelbeat seminars: https://t.co/Df9lVcqZii \u2026
+p460
+aVVery excited to have #googlecloud expert Jen with us at #angelbeat Florida events! https://t.co/EXihKx5nDe
+p461
+aVI'm in Florida this week. 4 cities, 4 days giving @googlecloud overviews at @angelbeat seminars: https://t.co/Df9lVcqZii Come say hi :D
+p462
+aVLamborghini of monolithic traversing!  https://t.co/w4Tlo2PjgU
+p463
+aVWaytogo! Education for all, anywhere in the world for free, all hosted in the cloud! https://t.co/jHjbqUqIbD
+p464
+aV#TheMaval World's #BestSocialMedia  is For Your Help Join https://t.co/v6T5wt6weI You Deserve it Totally Free! https://t.co/pMawLKSjfK
+p465
+aVRT @PaulLamb: There are parts of kubernetes that I love, then there's ingress/load balancing that points and laughs at me. @googlecloud
+p466
+aVThere are parts of kubernetes that I love, then there's ingress/load balancing that points and laughs at me. @googlecloud
+p467
+aVfeaturing tweets from @awscloud, @kevinlawler, @strataconf, @appbaseio, @jaffathecake, @vambenepe, @googlecloud, @myfear.
+p468
+aVRT @googlecloud: How fast is BigQuery? We\u2019ll show you by querying the Wiki100B table. All 100B rows of it. https://t.co/C2NQXlXjb8 https://\u2026
+p469
+aVRT @Zyncrender: Have you tried Zync? If you want to give it a go, you can access $800 in @googlecloud credit by signing up here: https://t.\u2026
+p470
+aVHave you tried Zync? If you want to give it a go, you can access $800 in @googlecloud credit by signing up here: https://t.co/EP6kVd06uB
+p471
+aVRT @nixarn: So much for the easy to use @googlecloud CloudSQL + AppEngine solution. DateTimeFields work locally (using CloudSQL) but not on\u2026
+p472
+aVRT @Josh_Lowry: Eight Traits of High Performing Managers. https://t.co/FlTclYsXaP\u2026 @googlecloud #leadership #management
+p473
+aVSo much for the easy to use @googlecloud CloudSQL + AppEngine solution. DateTimeFields work locally (using CloudSQL) but not on GAE...
+p474
+aVEight Traits of High Performing Managers. https://t.co/FlTclYsXaP\u2026 @googlecloud #leadership #management
+p475
+aVRT @francesc: "If every machine can talk to every other machine at 10 Gbps, racks don\u2019t matter"\u000a@googlecloud changing #BigData\u000ahttps://t.co\u2026
+p476
+aV@phphants I will be up in London with @googlecloud, sorry
+p477
+aV@googlecloud @CollinsKey @CollinsKey Enter me in @CollinsKey   #CollinsKey  #CollinskeyGiveaway
+p478
+aV@googlecloud @CollinsKey @CollinsKey Enter me in @CollinsKey   #CollinsKey  #CollinskeyGiveaway
+p479
+aV@googlecloud @CollinsKey Enter me in @CollinsKey   #CollinsKey  #CollinskeyGiveaway
+p480
+aVGet started on Google Cloud Platform with a free trial. https://t.co/V91cYSXGar
+p481
+aV@googlecloud I will get paid for trying this application?
+p482
+aV@googlecloud , Happy News!!!\u000aRegrads,\u000a@cmsdeveloper \u000ahttps://t.co/R7YnkCKpsw
+p483
+aVRT @ChMUKHERJE: @googlecloud GO GOOGLE GO. NO SKY SHOULD BE YOUR LIMIT.
+p484
+aVRT @manikhalsa1992: @googlecloud can we get it
+p485
+aVRT @balaji64: @googlecloud Who will pay for the data charges for using the internet ?
+p486
+aVRT @kkuKuchhal: @googlecloud Greatest app of the planet earth has already functional as Shunkh technology.
+p487
+aVwtmf3: googlecloud I have GREAT site. https://t.co/2FqU1HKOft But no one is talking how to get traffic to the sit\u2026 https://t.co/jEXqKLufFb
+p488
+aV@googlecloud I have GREAT site. https://t.co/5LENGe31C3 But no one is talking how to get traffic to the site.Do you know how to get traffic?
+p489
+aVSoftware Engineer Int Java Python Googlecloud Jobs in Roswell, GA #Roswell #GA #jobs #jobsearch https://t.co/OxiJeEysUq
+p490
+aVRT @MrMarkAJones: CIO Services Weekly is out! https://t.co/5apH4Pt9zv Stories via @juliaferraioli @timgrieveson @googlecloud
+p491
+aVCIO Services Weekly is out! https://t.co/5apH4Pt9zv Stories via @juliaferraioli @timgrieveson @googlecloud
+p492
+aVRT @googlecloud: How fast is BigQuery? We\u2019ll show you by querying the Wiki100B table. All 100B rows of it. https://t.co/C2NQXlXjb8 https://\u2026
+p493
+aVjoin mmmglobal perform the task and reciveed 100% per month.\u000a#bitcoin #BTC https://t.co/kTmvLZef1g
+p494
+aVRT @MarkVozzo: Wow #BigData in action. @felipehoffa uses @googlecloud #BigQuery to measure smiles vs sad faces on #reddit posts. https://t.\u2026
+p495
+aVRT @MarkVozzo: Wow #BigData in action. @felipehoffa uses @googlecloud #BigQuery to measure smiles vs sad faces on #reddit posts. https://t.\u2026
+p496
+aVRT @MarkVozzo: Wow #BigData in action. @felipehoffa uses @googlecloud #BigQuery to measure smiles vs sad faces on #reddit posts. https://t.\u2026
+p497
+aVWow #BigData in action. @felipehoffa uses @googlecloud #BigQuery to measure smiles vs sad faces on #reddit posts. https://t.co/m9XjP7odrk
+p498
+aVRT @francesc: "If every machine can talk to every other machine at 10 Gbps, racks don\u2019t matter"\u000a@googlecloud changing #BigData\u000ahttps://t.co\u2026
+p499
+aVRT @francesc: "If every machine can talk to every other machine at 10 Gbps, racks don\u2019t matter"\u000a@googlecloud changing #BigData\u000ahttps://t.co\u2026
+p500
+aVRT @tekgrrl: Slides from my @googlecloud overview at GDG Cloud London this week https://t.co/bETxH2TvLA #gdgcloudlondon @gdglondon
+p501
+aV@mhashemi @googlecloud @WikiResearch And we have $300 credits for you to try things out. Take a look at the @googlecloud handle!
+p502
+asI5
+(lp503
+VRT @tekgrrl: Slides from my @googlecloud overview at GDG Cloud London this week https://t.co/bETxH2TvLA #gdgcloudlondon @gdglondon
+p504
+aVRT @tekgrrl: Slides from my @googlecloud overview at GDG Cloud London this week https://t.co/bETxH2TvLA #gdgcloudlondon @gdglondon
+p505
+aVRT @tekgrrl: Slides from my @googlecloud overview at GDG Cloud London this week https://t.co/bETxH2TvLA #gdgcloudlondon @gdglondon
+p506
+aVSlides from my @googlecloud overview at GDG Cloud London this week https://t.co/bETxH2TvLA #gdgcloudlondon @gdglondon
+p507
+aVRT @stevenfrieson: Great talk by @bretmcg about @googlecloud @GA_NYC today about. #souvenir #lunchandlearn #lifeatGA @aleksamatiyev https:/\u2026
+p508
+aVRT @francesc: "If every machine can talk to every other machine at 10 Gbps, racks don\u2019t matter"\u000a@googlecloud changing #BigData\u000ahttps://t.co\u2026
+p509
+aV@googlecloud why no mail service? Outgoing SMTP? #featurerequest
+p510
+aVRT @googlecloud: How fast is BigQuery? We\u2019ll show you by querying the Wiki100B table. All 100B rows of it. https://t.co/C2NQXlXjb8 https://\u2026
+p511
+aVRT @francesc: "If every machine can talk to every other machine at 10 Gbps, racks don\u2019t matter"\u000a@googlecloud changing #BigData\u000ahttps://t.co\u2026
+p512
+aVRT @francesc: "If every machine can talk to every other machine at 10 Gbps, racks don\u2019t matter"\u000a@googlecloud changing #BigData\u000ahttps://t.co\u2026
+p513
+aVRT @francesc: "If every machine can talk to every other machine at 10 Gbps, racks don\u2019t matter"\u000a@googlecloud changing #BigData\u000ahttps://t.co\u2026
+p514
+aVRT @francesc: "If every machine can talk to every other machine at 10 Gbps, racks don\u2019t matter"\u000a@googlecloud changing #BigData\u000ahttps://t.co\u2026
+p515
+aVRT @francesc: "If every machine can talk to every other machine at 10 Gbps, racks don\u2019t matter"\u000a@googlecloud changing #BigData\u000ahttps://t.co\u2026
+p516
+aV@francesc @googlecloud then data will just get bigger.
+p517
+aVRT @francesc: "If every machine can talk to every other machine at 10 Gbps, racks don\u2019t matter"\u000a@googlecloud changing #BigData\u000ahttps://t.co\u2026
+p518
+aVRT @francesc: "If every machine can talk to every other machine at 10 Gbps, racks don\u2019t matter"\u000a@googlecloud changing #BigData\u000ahttps://t.co\u2026
+p519
+aV"If every machine can talk to every other machine at 10 Gbps, racks don\u2019t matter"\u000a@googlecloud changing #BigData\u000ahttps://t.co/HSUfj1gm5c
+p520
+aV@hajozaki @dez_blanchfield @randal_olson @googlecloud_jp seriously! You have the coolest toys
+p521
+aVRT @MimmingCodes: .@googlecloud has a big data blog now: https://t.co/VqxFKqNj86 We'll be talking about things like BigQuery queries https:\u2026
+p522
+aV.@googlecloud has a big data blog now: https://t.co/VqxFKqNj86 We'll be talking about things like BigQuery queries https://t.co/SlcPftuBTt
+p523
+aVRT @LusciousPear: I'm consistently seeing GETs from @googlecloud storage 2-5x faster than S3. niiiice
+p524
+aVRT @nicdoye: Less than 9 minutes to build the kernel on the @googlecloud VM. I gave up after 45 minutes on my local one!
+p525
+aVRT @nicdoye: Also, using a docker image to host the @googlecloud SDK doesn't work well. I commit the image, but it still asks questions at \u2026
+p526
+aVRT @nicdoye: Fired up 8-core image in @googlecloud to build the kermel instead.
+p527
+aVLess than 9 minutes to build the kernel on the @googlecloud VM. I gave up after 45 minutes on my local one!
+p528
+aVRT @fisicallyfeet: ..exploring cloud servers, @openshift, @heroku and @googlecloud done. Up next @IBMBluemix and @scaleway
+p529
+aVAlso, using a docker image to host the @googlecloud SDK doesn't work well. I commit the image, but it still asks questions at next launch
+p530
+aVRT @grapesfrog: 1st part of a 2 part post  in my atoz of GCP series .Up to H now. 2nd part will be after  entry for I!  https://t.co/01IGoe\u2026
+p531
+aVFired up 8-core image in @googlecloud to build the kermel instead.
+p532
+aV..exploring cloud servers, @openshift, @heroku and @googlecloud done. Up next @IBMBluemix and @scaleway
+p533
+aVRT @GridMineHQ: Google Dataflow programming tools for big data become an Apache project #bigdata #apache #data @googlecloud https://t.co/Rv\u2026
+p534
+aVRT @GridMineHQ: Google Dataflow programming tools for big data become an Apache project #bigdata #apache #data @googlecloud https://t.co/Rv\u2026
+p535
+aVGoogle Dataflow programming tools for big data become an Apache project #bigdata #apache #data @googlecloud https://t.co/Rvh68wKSvM
+p536
+aV1st part of a 2 part post  in my atoz of GCP series .Up to H now. 2nd part will be after  entry for I!  https://t.co/01IGoeLTR5 #googlecloud
+p537
+aVRT @cartikahosting: #Dataflow + #OpenSource &amp; joining #ApacheIncubator | F.Perry &amp; J. Malone via @googlecloud | https://t.co/cVeEUXmiXH htt\u2026
+p538
+aV#Dataflow + #OpenSource &amp; joining #ApacheIncubator | F.Perry &amp; J. Malone via @googlecloud | https://t.co/cVeEUXmiXH https://t.co/McQ7cxG4bE
+p539
+aV@googlecloud Great to watch this video: https://t.co/kAF6f3Mp19
+p540
+aV@googlecloud whatever, a lot of features of google cloud platform is not available for our country. racists!
+p541
+aVHow to replace SAP BW with Google BigQuery?\u000a\u000ahttps://t.co/iTT4v3wiY0\u000a\u000a#googlecloud #gcp
+p542
+aVRT @TDaytonPM: How Long Can AWS Keep Climbing Its Steep Growth Curve?\u000ahttps://t.co/PvP6Ptdmkz @awscloud @MSCloud @Azure @googlecloud
+p543
+aVRT @tpryan: That thing where you send 30,000,000 requests at your own service because of a mistake, &amp; you don't notice because App Engine. \u2026
+p544
+aVRT @reddit: Behind every great entrepreneur is a #FORMATIVE moment. Join us in telling 8 stories direct from Reddit @googlecloud https://t.\u2026
+p545
+aVRT @reddit: From truant to viral video king. Catch @CaseyNeistat's #FORMATIVE moment at https://t.co/DRC5fB5cuG @googlecloud https://t.co/8\u2026
+p546
+aVRT @reddit: Hear from the man who gave Siri all the answers, Stephen Wolfram, on #Formative @googlecloud https://t.co/FHHapEaDjl https://t.\u2026
+p547
+aVRT @BeepBoopHQ: We've been really happy with Google Cloud Platform, many serendipitous moments. Can't wait to share our story soon! @google\u2026
+p548
+aVRT @g33xter: Day 7, building my PenTesting platform with google cloud. @googlecloud https://t.co/uiIt6nSv4u
+p549
+aVRT @imtheoperator: Nice new filtering options in the @googlecloud console's log viewer! https://t.co/gE2RN7mnDr
+p550
+aVRT @michaelwolfrath: I'm curious about the impact of @googlecloud integrating @RedHatNews #OpenShift container platform on this game https:\u2026
+p551
+aVRT @googlecloud: How fast is BigQuery? We\u2019ll show you by querying the Wiki100B table. All 100B rows of it. https://t.co/C2NQXlXjb8 https://\u2026
+p552
+aVI'm curious about the impact of @googlecloud integrating @RedHatNews #OpenShift container platform on this game https://t.co/xmhuHQUxRC
+p553
+aV@googlecloud  our website https://t.co/GeMpUZ2242 was down many a times today and happening since 2-3 days \u000akeep getting pingdom alerts
+p554
+aVRT @mhashemi: .@googlecloud @WikiResearch That's a $20 query at current prices ($5/TB). Don't double click!
+p555
+aV.@googlecloud @WikiResearch That's a $20 query at current prices ($5/TB). Don't double click!
+p556
+aVRT @googlecloud: How fast is BigQuery? We\u2019ll show you by querying the Wiki100B table. All 100B rows of it. https://t.co/C2NQXlXjb8 https://\u2026
+p557
+aVRT @googlecloud: How fast is BigQuery? We\u2019ll show you by querying the Wiki100B table. All 100B rows of it. https://t.co/C2NQXlXjb8 https://\u2026
+p558
+aV@googlecloud i will get paid?
+p559
+aVI am going for it https://t.co/2yGnTtlGql
+p560
+aV@googlecloudspin @gdgtc @TheoLikeMayo @googlecloud that's epic!
+p561
+aVRT @googlecloud: \u26ab The story behind DeepMind\u2019s AlphaGo\u000a\u26ab\u26aa Powered by Google Cloud Platform\u000a\u26aa https://t.co/fBRyIUUxhA via @WIRED https://t.c\u2026
+p562
+aV@Forgoteme @googlecloud Politicians should the  good principle of all  parties but not the criminal activity of any leader.
+p563
+aVDID SOMEONE SAY FAST https://t.co/HFGVYPCd2L
+p564
+aVRT @googlecloud: How fast is BigQuery? We\u2019ll show you by querying the Wiki100B table. All 100B rows of it. https://t.co/C2NQXlXjb8 https://\u2026
+p565
+aVRT @googlecloud: How fast is BigQuery? We\u2019ll show you by querying the Wiki100B table. All 100B rows of it. https://t.co/C2NQXlXjb8 https://\u2026
+p566
+aVRT @googlecloud: How to store, host, and manage your #JGroups cluster member data with Cloud Storage: https://t.co/IZwtTEf62C https://t.co/\u2026
+p567
+aVRT @juliaferraioli: Unique application of the @googlecloud #Vision API "to identify all images deemed as...containing violent imagery".\u000a\u000aht\u2026
+p568
+aV@googlecloud And the catch is?...........................
+p569
+aV#GoogleVision #API: #ImageAnalysis as a Service @CloudRank https://t.co/yf1HkA9eUz #tutorial #coding #GoogleCloud https://t.co/FoJYmiNoZc
+p570
+aV@googlecloud The earning sud be learn through google truth honesty which is based nd best for profession to check stop corruption in society
+p571
+aVRT @LusciousPear: I'm consistently seeing GETs from @googlecloud storage 2-5x faster than S3. niiiice
+p572
+aV@googlecloud What's next after increasing block storage size? I hope something like Elastic File System.
+p573
+aVRT @coding_jobfeeds: Software Engineer Int (#Java #Python #GoogleCloud) Roswell https://t.co/2tWq6OwGjq #Python #jobs
+p574
+aVRT @googlecloud: Good news, @tableau users. Now you can directly connect to Cloud SQL in just a few seconds. https://t.co/VS0IVqznY5 https:\u2026
+p575
+aVRT @juliaferraioli: Unique application of the @googlecloud #Vision API "to identify all images deemed as...containing violent imagery".\u000a\u000aht\u2026
+p576
+aVRT @googlecloud: Command-line access to your applications is on us. Cloud Shell beta is staying free in 2016. https://t.co/X9ECjRa3ji https\u2026
+p577
+aVRT @googlecloud: Launch a Container Engine cluster, then enable Cloud Monitoring with a single click. https://t.co/TuOmYu7fFK https://t.co/\u2026
+p578
+aVRT @googlecloud: See the latest. Learn the ropes. Meet the team. Then build what\u2019s next. Introducing #GCPNEXT https://t.co/nR7STnnwlc https\u2026
+p579
+aVRT @googlecloud: How to transform (and incorporate) large-scale, financial services data with Cloud Dataflow: https://t.co/lyn9QEQCuu https\u2026
+p580
+aVRT @Firebase: Build a backend for your mobile app with Firebase and @googlecloud. Here's how: https://t.co/SJms6DkO54 https://t.co/WVP4xyk0\u2026
+p581
+aVRT @googlecloud: We\u2019re not the only ones you\u2019ll hear from at #GCPNEXT. Submit a session to speak at the event https://t.co/YrxJtK93Zu https\u2026
+p582
+aVRT @googlecloud: Whether it\u2019s ops or apps, tracks help you focus on the areas that matter to you. #GCPNEXT https://t.co/caJNSrYZra https://\u2026
+p583
+aVRT @googlecloud: Don\u2019t forget to submit your grand plans for a session at #GCPNEXT. You\u2019ve got until 1/15. https://t.co/YrxJtK93Zu https://\u2026
+p584
+aVRT @googlecloud: Build a #GCPNEXT experience that\u2019s relevant to what you\u2019re working on. Choose your track: https://t.co/n1wJyLsuMH https://\u2026
+p585
+aVRT @googlecloud: From Cloud Vision API to 2nd-gen Cloud SQL: Our favorite content, compiled monthly on Medium https://t.co/NBRFKDQXx0 https\u2026
+p586
+aVRT @googlecloud: Reminder: Share a proposal by 1/15, and you could lead your own session at #GCPNEXT. https://t.co/YrxJtK93Zu https://t.co/\u2026
+p587
+aVRT @googlecloud: Learn how to install and run #TensorFlow via @docker, then test your installation. https://t.co/dMjebOjnXd https://t.co/wb\u2026
+p588
+aVRT @googlecloud: Good news, @tableau users. Now you can directly connect to Cloud SQL in just a few seconds. https://t.co/VS0IVqznY5 https:\u2026
+p589
+aVRT @googlecloud: Learn the key concepts behind @kubernetesio in this 10-min crash course from @omerio: https://t.co/F9RRibWfqV https://t.co\u2026
+p590
+aVRT @googlecloud: The Google Cloud CLI features you might not know about\u2014starting with autocompletion: https://t.co/CacZ5BEdmz https://t.co/\u2026
+p591
+aVRT @googlecloud: How to build a mobile gaming analytics platform (without managing the infrastructure): https://t.co/MaWEeolCpA https://t.c\u2026
+p592
+aVRT @googlecloud: Attending #PMWC16? See David Glazer\u2019s session on large-scale analysis with Google Genomics: https://t.co/sD1B0rKOTi https:\u2026
+p593
+aVRT @googlecloud: Cloud Router for VPN is moving beyond legacy networks. Introducing support for Subnetworks: https://t.co/Gs2ak05oz1 https:\u2026
+p594
+aVRT @googlecloud: Interested in #IoT development? Watch our cloud sessions from @googledevs #UbiquityDevSummit https://t.co/BjZjoV0f1g https\u2026
+p595
+aVRT @googlecloud: What\u2019s next for Dataflow? We\u2019re proposing a spot in @TheASF Incubator. #Apache https://t.co/eei0m5AocU https://t.co/ug8Y8u\u2026
+p596
+aVRT @googlecloud: We\u2019re integrating with @openshift Dedicated to make adopting containers even easier. #docker https://t.co/EI1pxg6Inz https\u2026
+p597
+aVRT @googlecloud: .@googleresearch just launched a free @udacity course on #deeplearning. @Tensorflo included. https://t.co/QQm4XwyDZN https\u2026
+p598
+aVRT @googlecloud: Here\u2019s your #mondaymotivation to get up and running with @golang on GCP: https://t.co/9ZzMZvizW0 https://t.co/mV3wEDWRhN
+p599
+aVRT @googlecloud: Now you can create a @Cloud9IDE workspace that connects with your GCP project: https://t.co/4qjWh5fBq4 https://t.co/JPPSiE\u2026
+p600
+aVRT @googlecloud: \u26ab The story behind DeepMind\u2019s AlphaGo\u000a\u26ab\u26aa Powered by Google Cloud Platform\u000a\u26aa https://t.co/fBRyIUUxhA via @WIRED https://t.c\u2026
+p601
+aVRT @googlecloud: Now Compute Engine offers up to 64TB of Persistent Disk &amp; 3TB of Local SSD per VM: https://t.co/5hZRNaII69 https://t.co/zh\u2026
+p602
+aVRT @juliaferraioli: Unique application of the @googlecloud #Vision API "to identify all images deemed as...containing violent imagery".\u000a\u000aht\u2026
+p603
+as.

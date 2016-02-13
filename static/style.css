@@ -1,7 +1,6 @@
 ::selection{ background-color: #E13300; color: white; }
 ::moz-selection{ background-color: #E13300; color: white; }
 ::webkit-selection{ background-color: #E13300; color: white; }
-
 body {
     font-family: "Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
     color: #888;
@@ -75,7 +74,7 @@ form input[type=text]{
     -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
     -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
 }
-form input[type=submit]{
+form button[type=submit]{
     background: #198ad1;
     color: #fff;
     display: inline-block;
@@ -96,9 +95,19 @@ form input[type=submit]{
     text-align: center;
 } 
 #graph{
-    textalign: center;
-    width: 50%;
+    text-align: center;
+    width: 40%;
+
 }
+
 canvas {
    display: inline;
+   text-align: center;
+   padding: 0 20px;
+   -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+    -moz-box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
 }
