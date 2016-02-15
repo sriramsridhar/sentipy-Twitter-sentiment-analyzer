@@ -42,12 +42,6 @@ class TwitterData:
                 self.weekTweets[i] = self.getData(keyword, params)
             #end loop
         return self.weekTweets
-    '''
-        inpfile = open('data/weekTweets/weekTweets_obama_7303.txt')
-        self.weekTweets = pickle.load(inpfile)
-        inpfile.close()
-        return self.weekTweets
-    '''
     #end
 
     def parse_config(self):
