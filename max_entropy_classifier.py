@@ -1,6 +1,6 @@
 import nltk.classify
 import re, pickle, csv, os
-import classifier_helper, html_helper
+import classifier_helper
 
 from collections import defaultdict
 
@@ -24,7 +24,7 @@ class MaxEntClassifier:
 
         self.time = time
         self.keyword = keyword
-        self.html = html_helper.HTMLHelper()
+        
         self.trainingDataFile = trainingDataFile
 
         #call training model
@@ -223,8 +223,3 @@ class MaxEntClassifier:
                 val.append(value2['tweet'])
                 val2.append(value2['label'])
         return val,val2,self.time,self.pos_count,self.neg_count,self.neut_count
-    def getHTML(self):
-        return self.html.getResultHTML(self.keyword, self.results, self.time, self.pos_count, \
-                                       self.neg_count, self.neut_count, 'maxentropy')
-    #end
-#end class
