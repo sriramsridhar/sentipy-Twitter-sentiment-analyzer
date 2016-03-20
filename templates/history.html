@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Sentipy-Sentimental analysis using real-time twitter data</title>
+        <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+  
+    </head>
+    <body>
+
+        <div id="container">
+            <div class="title">
+                <h1>Sentipy-Sentimental analysis using real-time twitter data</h1>
+            </div>
+            <div id="content">
+            <a href="{{ url_for('index') }}"><button>&#8656; Back to Index</button></a><br/>
+            </div>
+            </div>
+            <div id="container">
+            <div class="title">
+                <h1>Recent searches</h1>
+            </div>
+            <div id="content">
+              <table class="zui-table zui-table-highlight-all">
+                <thead>
+                    <tr>
+                      <th>#</th>
+                      <th>Date</th>
+                      <th>Keyword searched</th>
+                      <th>Result in the format {Positive/Neutral/Negative}</th>
+                   </tr>
+                 </thead>
+                {% for item in items %}
+                <TR>
+                    <TD>{{item.sno}}</TD>
+                   <TD>{{item.date}}</TD>
+                   <TD>{{item.keyword}}</TD>
+                   <TD><SPAN>{{item.result}}</SPAN></TD>
+                </TR>
+                {% endfor %}
+                </table>
+                <br/><br/>
+            </div>
+            </div>
+         <div id="footer"><footer><p style="text-align:center;">Version 1.0 . This site is designed by sriram &#38; srinath &#169; 2016</p></footer></div>
+    </body>
+</html>
+ 

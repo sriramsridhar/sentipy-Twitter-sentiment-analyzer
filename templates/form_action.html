@@ -1,5 +1,6 @@
  <html>
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Results for {{name}}-Sentipy</title>
         <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
         <script src="{{ url_for('static', filename='Chart.js') }}"></script>
@@ -43,7 +44,7 @@
             {% endfor %}</div>
             <br style="clear: left;" />
                      </div>
-        <div id="container"><footer><p style="text-align:center;">This <a href="https://github.com/sriramsridhar/sentipy-v2.0" target="_blank">open-sourced</a> site is designed by sriram &#38; srinath &#169; 2016</p></footer></div>
+         <div id="footer"><footer><p style="text-align:center;">Version 1.0 . This site is designed by sriram &#38; srinath &#169; 2016</p></footer></div>
        
     <script>
     var barChartData = {

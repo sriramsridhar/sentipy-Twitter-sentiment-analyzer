@@ -5,6 +5,8 @@ from flask import Flask, render_template, request, url_for
 import get_twitter_data
 import max_entropy_classifier
 import itertools
+import dbcon
+from datetime import datetime,timedelta,date
 # Initialize the Flask application
 app = Flask(__name__)
 def process(val,val2):
@@ -20,39 +22,71 @@ def process(val,val2):
         elif val2[i] == "negative":
             neg_tweet.append(val[i])
     return pos_tweet,neg_tweet,neut_tweet
-
+@app.route('/history/')
+def history():
+    result=dbcon.Searchresults.select().order_by(dbcon.Searchresults.search_id)
+    items=[]
+    j=1
+    for i in result:
+        an_item = dict(sno=j, date=i.time, keyword=i.search_keyword,  result=i.search_result)
+        items.append(an_item)
+        j=j+1
+    return render_template('history.html',items=items)
 # Define a route for the default URL, which loads the form
 @app.route('/')
-def form():
-    return render_template('form_submit.html')
+@app.route('/index')
+def index():
+    result=dbcon.Searchresults.select().order_by(dbcon.Searchresults.search_id.desc()).limit(10)
+    items=[]
+    j=1
+    for i in result:
+        an_item = dict(sno=j, date=i.time, keyword=i.search_keyword,  result=i.search_result)
+        items.append(an_item)
+        j=j+1
+    return render_template('form_submit.html',items=items)
 
-# Define a route for the action of the form, for example '/hello/'
-# We are also defining which type of requests this route is 
-# accepting: POST requests in this case
+
+def get_time(f):
+    if f == 'today':
+        i = datetime.now()
+        return i.strftime('%Y/%m/%d')
+    else:
+        result=date.today() - timedelta(days=7)
+        final= result.strftime('%Y/%m/%d') +" - "+datetime.now().strftime('%Y/%m/%d')
+        return final
+
+
 @app.route('/submit/', methods=['POST'])
 def submit():
-    keyword=request.form['yourname']
-    time=request.form['options']
-    print time
-    twitterData = get_twitter_data.TwitterData()
-    tweets = twitterData.getTwitterData(keyword, time)
-    trainingDataFile = 'data/training_neatfile.csv'
-    classifierDumpFile = 'data/maxent_trained_model.pickle'
-    trainingRequired = 0
-    maxent = max_entropy_classifier.MaxEntClassifier(tweets, keyword, time, \
-                              trainingDataFile, classifierDumpFile, trainingRequired)
-    maxent.classify()
-    val,val2,time,pos_count,neg_count,neut_count=maxent.print_value()
-    pos_tweet,neg_tweet,neut_tweet=process(val,val2)
-    if time == 'today':
-    	return render_template('form_action.html', name=keyword, option=time, pos_count=pos_count, neg_count=neg_count, neut_count=neut_count, pos_tweet=pos_tweet, neg_tweet=neg_tweet, neut_tweet=neut_tweet)
-    elif time == 'lastweek':
-    	return render_template('form_action_weekly.html', name=keyword, option=time, pos_count=pos_count, neg_count=neg_count, neut_count=neut_count, pos_tweet=pos_tweet, neg_tweet=neg_tweet, neut_tweet=neut_tweet)
-    else:
-    	return render_template('form_submit.html',sorry="T")
+    try:
+        keyword=request.form['yourname']
+        time=request.form['options']
+        print time
+        twitterData = get_twitter_data.TwitterData()
+        tweets = twitterData.getTwitterData(keyword, time)
+        trainingDataFile = 'data/training_neatfile.csv'
+        classifierDumpFile = 'data/maxent_trained_model.pickle'
+        trainingRequired = 0
+        maxent = max_entropy_classifier.MaxEntClassifier(tweets, keyword, time, \
+                                  trainingDataFile, classifierDumpFile, trainingRequired)
+        maxent.classify()
+        val,val2,time,pos_count,neg_count,neut_count=maxent.print_value()
+        pos_tweet,neg_tweet,neut_tweet=process(val,val2)
+        res=str(pos_count)+" | "+str(neut_count)+" | "+str(neg_count)
+        count = dbcon.Searchresults.select().count()
+        if time == 'today':
+            dbcon.Searchresults.create(time = get_time('today'),search_id=count+1,search_keyword=keyword,search_result=res)
+            return render_template('form_action.html', name=keyword, option=get_time(time), pos_count=pos_count, neg_count=neg_count, neut_count=neut_count, pos_tweet=pos_tweet, neg_tweet=neg_tweet, neut_tweet=neut_tweet)
+        elif time == 'lastweek':
+            dbcon.Searchresults.create(time = get_time('week'),search_id=count+1,search_keyword=keyword,search_result=res)
+            return render_template('form_action_weekly.html', name=keyword, option=get_time(time), pos_count=pos_count, neg_count=neg_count, neut_count=neut_count, pos_tweet=pos_tweet, neg_tweet=neg_tweet, neut_tweet=neut_tweet)
+        else:
+        	return render_template('form_submit.html',sorry="T")
+    except:
+        return render_template('form_submit.html',sorry="T")
 # Run the app :)
 if __name__ == '__main__':
 	app.jinja_env.cache = {}
-	app.run(host="0.0.0.0")
+	app.run(host="0.0.0.0",debug=True)
 
 

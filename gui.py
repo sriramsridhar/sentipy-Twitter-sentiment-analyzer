@@ -29,9 +29,11 @@ def submit(keyword,time):
 
 def btn():
     keyword = str(test2.get())
-    timeline=str(test.get())
-
-    
+    timeline=str(v.get())
+    textPad.delete(0.0,END)
+    if timeline=="":
+        textPad.insert(INSERT, "Please check the timeline to analyse")
+        return True
     textPad.delete(0.0,END)
     if keyword=="":
         textPad.insert(INSERT, "Please enter the search term to analyse")
@@ -52,31 +54,41 @@ def gen():
 
 
 root = Tk()
-root.config(background="#34282C")
+root.config(background="#3b5998")
 root.title("sentipy")
 root.geometry("800x550")
 root.style = Style()
 root.style.theme_use("default")
 
 test2_label = Label(root, text="Enter keyword to analyse")
-test2_label.config(bg='#736F6E', fg='White')
+test2_label.config(bg='White', fg='Black')
 test2_label.grid(row=1,column=1, padx=20,pady=20,sticky=W)
 test2 = Entry(root)
-test2.config(bg='#34282C',fg='White')
+test2.config(bg='White',fg='Black')
 test2.grid(row=1,column=2,columnspan=2,padx=5,pady=5,sticky=W)
 test_label = Label(root, text="Enter time period")
-test_label.config(bg='#736F6E', fg='White')
+test_label.config(bg='White', fg='Black')
 test_label.grid(row=2,column=1, padx=20,pady=20,sticky=W)
-test = Entry(root)
-test.config(bg='#34282C',fg='White')
-test.grid(row=2,column=2,columnspan=2,padx=5,pady=5,sticky=W)
+# test = Entry(root)
+# test.config(bg='White',fg='Black')
+# test.grid(row=2,column=2,columnspan=2,padx=5,pady=5,sticky=W)
+v=StringVar()
+r1=Radiobutton(root, text="Today", variable=v, value=" today ",indicatoron = 0)
+r1.config(bg='White', fg='Black')
+r1.grid(row=2,column=2)
+r2=Radiobutton(root, text="Lastweek", variable=v, value="lastweek",indicatoron = 0)
+r2.config(bg='White', fg='Black')
+r2.grid(row=3,column=2)
+
 
 bn1 = Button(root, text="Analyse", command=btn)
+# bn1.config(bg='White', fg='Black')
 bn1.grid(row=4,column=1,padx=50,pady=20,sticky=W)
 
 bn3 = Button(root, text="clear console", command=gen)
+# bn3.config(bg='White', fg='Black')
 bn3.grid(row=4,column=2,padx=50,pady=5,sticky=E)
-textPad = ScrolledText(root, width=110, height=25,bg='#34282C',fg='White')
+textPad = ScrolledText(root, width=110, height=25,bg='White',fg='Black')
 # textPad.config(,anchor=E,justify=LEFT)
 textPad.grid(row=6,column=1,columnspan=3,padx=5,pady=10,sticky=W)
 #,rowspan=4

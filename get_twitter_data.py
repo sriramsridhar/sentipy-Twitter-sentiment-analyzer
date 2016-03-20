@@ -40,6 +40,10 @@ class TwitterData:
             for i in range(0,1):
                 params = {'since': self.weekDates[i+1], 'until': self.weekDates[i]}
                 self.weekTweets[i] = self.getData(keyword, params)
+            filename = 'data/daily/daily_'+urllib.unquote(keyword.replace("+", " "))+'_'+str(int(random.random()*10000))+'.txt'
+            outfile = open(filename, 'wb')
+            pickle.dump(self.weekTweets, outfile)
+            outfile.close()
             #end loop
         return self.weekTweets
     #end

@@ -17,7 +17,7 @@ a {
 
 .title {
     padding: 0 20px;
-    background: #32373a;
+    background: #43609C;
     position: relative;
     height: 50px;
     text-align: center;
@@ -55,7 +55,9 @@ p.footer{
     border: 1px solid #D0D0D0;
     -webkit-box-shadow: 0 0 8px #D0D0D0;
 }
-
+form{
+    text-align: center;
+}
 /* Form Styles */
 form label{
     display: block;
@@ -93,7 +95,27 @@ form button[type=submit]{
     border: 0;
     cursor: pointer;
     text-align: center;
-} 
+}
+button{
+    background: #198ad1;
+    color: #fff;
+    display: inline-block;
+    padding: 0 20px;
+    font-size: 16px;
+    line-height: 2.6em;
+    font-family: "Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 400;
+    -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+    -moz-box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,.1);
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    text-transform: capitalize;
+    border: 0;
+    cursor: pointer;
+    text-align: center;
+}
 #graph{
     text-align: center;
     width: 40%;
@@ -110,4 +132,60 @@ canvas {
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     border-radius: 2px;
+}
+.zui-table {
+    border: solid 1px #DDEEEE;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font: normal 13px Arial, sans-serif;
+}
+.zui-table thead th {
+    background-color: #DDEFEF;
+    border: solid 1px #DDEEEE;
+    color: #336B6B;
+    padding: 10px;
+    text-align: left;
+    text-shadow: 1px 1px 1px #fff;
+}
+.zui-table tbody td {
+    border: solid 1px #DDEEEE;
+    color: #333;
+    padding: 10px;
+    text-shadow: 1px 1px 1px #fff;
+}
+.zui-table-highlight-all {
+    overflow: hidden;
+    z-index: 1;
+}
+.zui-table-highlight-all tbody td, .zui-table-highlight-all thead th {
+    position: relative;
+}
+.zui-table-highlight-all tbody td:hover::before {
+    background-color: #CCE7E7;
+    content:'\00a0';
+    height: 100%;
+    left: -5000px;
+    position: absolute;
+    top: 0;
+    width: 10000px;
+    z-index: -1;
+}
+.zui-table-highlight-all tbody td:hover::after {
+    background-color: #CCE7E7;
+    content:'\00a0';
+    height: 10000px;
+    left: 0;
+    position: absolute;
+    top: -5000px;
+    width: 100%;
+    z-index: -1;
+}
+#footer{
+    position:fixed;
+    height:50px;
+    background-color:#43607C;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin-bottom:0px;
 }
