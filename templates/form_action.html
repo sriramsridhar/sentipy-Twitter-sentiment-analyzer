@@ -12,7 +12,8 @@
                 <h1>Sentipy-Sentimental analysis using real-time twitter data</h1>
             </div>
             <div id="content">
-            <p>Today's report for {{name}}</p>
+            <a href="{{ url_for('index') }}"><button>&#8656; Back to Index</button></a><br/>
+            <p>Report for {{name}} on {{option}}</p>
             <p>The positive counts are : {{pos_count}}
             &nbsp;&nbsp;&nbsp;&nbsp;The neutral counts are : {{neut_count}}
             &nbsp;&nbsp;&nbsp;&nbsp;The negative counts are : {{neg_count}}

@@ -3,7 +3,7 @@
 # we'll use url_for to get some URLs for the app on the templates
 from flask import Flask, render_template, request, url_for
 import get_twitter_data
-import max_entropy_classifier
+import max_entropy_classifier,libsvm_classifier
 import itertools
 import dbcon
 from datetime import datetime,timedelta,date
@@ -28,7 +28,7 @@ def history():
     items=[]
     j=1
     for i in result:
-        an_item = dict(sno=j, date=i.time, keyword=i.search_keyword,  result=i.search_result)
+        an_item = dict(sno=j, date=i.time, keyword=i.search_keyword,  result=i.search_result, c=i.classifier_used)
         items.append(an_item)
         j=j+1
     return render_template('history.html',items=items)
@@ -40,7 +40,7 @@ def index():
     items=[]
     j=1
     for i in result:
-        an_item = dict(sno=j, date=i.time, keyword=i.search_keyword,  result=i.search_result)
+        an_item = dict(sno=j, date=i.time, keyword=i.search_keyword,  result=i.search_result, c=i.classifier_used)
         items.append(an_item)
         j=j+1
     return render_template('form_submit.html',items=items)
@@ -64,21 +64,34 @@ def submit():
         print time
         twitterData = get_twitter_data.TwitterData()
         tweets = twitterData.getTwitterData(keyword, time)
-        trainingDataFile = 'data/training_neatfile.csv'
-        classifierDumpFile = 'data/maxent_trained_model.pickle'
-        trainingRequired = 0
-        maxent = max_entropy_classifier.MaxEntClassifier(tweets, keyword, time, \
-                                  trainingDataFile, classifierDumpFile, trainingRequired)
-        maxent.classify()
-        val,val2,time,pos_count,neg_count,neut_count=maxent.print_value()
-        pos_tweet,neg_tweet,neut_tweet=process(val,val2)
-        res=str(pos_count)+" | "+str(neut_count)+" | "+str(neg_count)
+        classifier = request.form['c']
+        if classifier=="maxent":
+            print "Maxent chosen"
+            trainingDataFile = 'data/training_neatfile.csv'
+            classifierDumpFile = 'data/maxent_trained_model.pickle'
+            trainingRequired = 0
+            maxent = max_entropy_classifier.MaxEntClassifier(tweets, keyword, time, \
+                                      trainingDataFile, classifierDumpFile, trainingRequired)
+            maxent.classify()
+            val,val2,time,pos_count,neg_count,neut_count=maxent.print_value()
+            pos_tweet,neg_tweet,neut_tweet=process(val,val2)
+        else:
+            trainingDataFile = 'data/training_neatfile.csv'                
+            classifierDumpFile = 'data/svm_trained_model.pickle'
+            trainingRequired = 0
+            sc = libsvm_classifier.SVMClassifier(tweets, keyword, time, \
+                                          trainingDataFile, classifierDumpFile, trainingRequired)
+            sc.classify()
+            print "classified"
+            val,val2,time,pos_count,neg_count,neut_count=sc.print_value()
+            pos_tweet,neg_tweet,neut_tweet=process(val,val2)
+        res=str(pos_count)+" "+str(neut_count)+" "+str(neg_count)
         count = dbcon.Searchresults.select().count()
         if time == 'today':
-            dbcon.Searchresults.create(time = get_time('today'),search_id=count+1,search_keyword=keyword,search_result=res)
+            dbcon.Searchresults.create(time = get_time('today'),search_id=count+1,search_keyword=keyword,search_result=res,classifier_used=str(classifier))
             return render_template('form_action.html', name=keyword, option=get_time(time), pos_count=pos_count, neg_count=neg_count, neut_count=neut_count, pos_tweet=pos_tweet, neg_tweet=neg_tweet, neut_tweet=neut_tweet)
         elif time == 'lastweek':
-            dbcon.Searchresults.create(time = get_time('week'),search_id=count+1,search_keyword=keyword,search_result=res)
+            dbcon.Searchresults.create(time = get_time('week'),search_id=count+1,search_keyword=keyword,search_result=res,classifier_used=str(classifier))
             return render_template('form_action_weekly.html', name=keyword, option=get_time(time), pos_count=pos_count, neg_count=neg_count, neut_count=neut_count, pos_tweet=pos_tweet, neg_tweet=neg_tweet, neut_tweet=neut_tweet)
         else:
         	return render_template('form_submit.html',sorry="T")

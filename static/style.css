@@ -58,6 +58,16 @@ p.footer{
 form{
     text-align: center;
 }
+form table tr td{
+    padding: 5px;
+    display: block;
+ text-align: justify-all;    
+}
+form table tr td#but{
+    padding: 5px;
+    display: block;
+ text-align: center;    
+}
 /* Form Styles */
 form label{
     display: block;

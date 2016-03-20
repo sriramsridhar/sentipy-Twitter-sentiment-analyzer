@@ -20,12 +20,23 @@
                 {% include 'sorry.html' %}
                 {% endif %}
                 <form name="myForm" method="post" action="{{ url_for('submit') }}" >
-                  <label for="yourname">Please enter your search term:</label>
-                  <input type="text" name="yourname" autocomplete="off" placeholder="Search term" autofocus required/><br />
-                  <label for="Time for accessing">Please enter the time period:</label>
-                  <input type="radio" name="options" id="option1" value="today" required> Today </input>
-                  <input type="radio" name="options" id="option2" value="lastweek"> Last week </input><br>
-                  <button id="button" type="submit">Submit</button>
+                  <table>
+                  <tr>
+                  <td><label for="yourname">Please enter your search term:</label></td>
+                  <td colspan="2"><input type="text" name="yourname" autocomplete="off" placeholder="Search term" autofocus required/></td>
+                  </tr>
+                  <tr>
+                  <td><label for="Time for accessing">Please enter the time period:</label></td>
+                  <td><input type="radio" name="options" id="option1" value="today" required> Today </input></td>
+                  <td><input type="radio" name="options" id="option2" value="lastweek"> Last week </input></td>
+                  </tr>
+                  <tr>
+                  <td><label for="Classifier used">Please enter the classifier to be used:</label></td>
+                  <td><input type="radio" name="c" id="c1" value="maxent" required> Maximum entropy </input></td>
+                  <td><input type="radio" name="c" id="c2" value="svm" > svm </input></td>
+                  </tr>
+                  <tr><td colspan="3" id="but"><button id="button" type="submit">Submit</button></td></tr>
+                  </table>
                 </form>
             </div>
             </div>
@@ -42,6 +53,7 @@
                       <th>Date</th>
                       <th>Keyword searched</th>
                       <th>Result in the format {Positive/Neutral/Negative}</th>
+                      <th>Classifier used</th>
                    </tr>
                  </thead>
                 {% for item in items %}
@@ -50,11 +62,12 @@
                    <TD>{{item.date}}</TD>
                    <TD>{{item.keyword}}</TD>
                    <TD><SPAN>{{item.result}}</SPAN></TD>
+                   <TD>{{item.c}}</TD>
                 </TR>
                 {% endfor %}
                 </table>
                 <br/>
-                <a href="{{ url_for('history') }}"><button> See more... &#8658;</button></a>
+                <a href="{{ url_for('history') }}"><button> See more... &#8658; </button></a>
                 <br/>
                 <br/>
           </div>

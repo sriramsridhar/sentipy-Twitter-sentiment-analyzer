@@ -14,6 +14,8 @@ class Searchresults(MySQLModel):
     search_id=pw.IntegerField()
     search_keyword = pw.TextField()
     search_result = pw.CharField()
+    classifier_used = pw.TextField()
+    
     class Meta:
         order_by = ('search_id',)
 

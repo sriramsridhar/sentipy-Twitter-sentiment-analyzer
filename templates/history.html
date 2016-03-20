@@ -17,7 +17,7 @@
             </div>
             <div id="container">
             <div class="title">
-                <h1>Recent searches</h1>
+                <h1>Previous searches</h1>
             </div>
             <div id="content">
               <table class="zui-table zui-table-highlight-all">
@@ -27,6 +27,7 @@
                       <th>Date</th>
                       <th>Keyword searched</th>
                       <th>Result in the format {Positive/Neutral/Negative}</th>
+                      <th>Classifier used</th>
                    </tr>
                  </thead>
                 {% for item in items %}
@@ -35,6 +36,7 @@
                    <TD>{{item.date}}</TD>
                    <TD>{{item.keyword}}</TD>
                    <TD><SPAN>{{item.result}}</SPAN></TD>
+                   <td>{{item.c}}</td>
                 </TR>
                 {% endfor %}
                 </table>

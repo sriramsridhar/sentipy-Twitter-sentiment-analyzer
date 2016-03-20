@@ -11,7 +11,8 @@
                 <h1>Results for {{name}}-Sentipy</h1>
             </div>
          	 <div id="content">
-            <p>Last week report for {{name}}</p>
+             <a href="{{ url_for('index') }}"><button>&#8656; Back to Index</button></a><br/>
+            <p>Report for {{name}} for {{option}}</p>
             <p>The positive counts are : {{pos_count}}
             &nbsp;&nbsp;&nbsp;&nbsp;The neutral counts are : {{neut_count}}</p>
             &nbsp;&nbsp;&nbsp;&nbsp;The negative counts are : {{neg_count}}

@@ -213,11 +213,10 @@ class MaxEntClassifier:
         #end outer loop
     #end writeOutput
 
-    #start getHTML
+    #start print_value
     def print_value(self):
         val=[]
         val2=[]
-        print self.keyword
         for key, value in self.results.iteritems() :
             for key2,value2 in value.iteritems():
                 val.append(value2['tweet'])
