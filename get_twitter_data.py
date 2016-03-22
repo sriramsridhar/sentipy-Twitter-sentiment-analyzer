@@ -94,7 +94,7 @@ class TwitterData:
 
     #start getTwitterData
     def getData(self, keyword, params = {}):
-        maxTweets = 500
+        maxTweets = 2000
         url = 'https://api.twitter.com/1.1/search/tweets.json?'
         data = {'q': keyword, 'lang': 'en', 'result_type': 'recent', 'count': maxTweets, 'include_entities': 0}
 
