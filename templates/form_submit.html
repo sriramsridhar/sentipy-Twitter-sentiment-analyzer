@@ -19,6 +19,9 @@
                 {% if sorry == "T" %}
                 {% include 'sorry.html' %}
                 {% endif %}
+                {% if sorry == 'Y' %}
+                {% include 'error.html' %}
+                {% endif %}
                 <form name="myForm" method="post" action="{{ url_for('submit') }}" >
                   <table>
                   <tr>

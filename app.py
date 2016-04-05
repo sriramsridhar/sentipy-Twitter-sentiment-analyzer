@@ -64,6 +64,7 @@ def submit():
         print time
         twitterData = get_twitter_data.TwitterData()
         tweets = twitterData.getTwitterData(keyword, time)
+        print tweets
         classifier = request.form['c']
         if classifier=="maxent":
             print "Maxent chosen"
@@ -75,6 +76,7 @@ def submit():
             maxent.classify()
             val,val2,time,pos_count,neg_count,neut_count=maxent.print_value()
             pos_tweet,neg_tweet,neut_tweet=process(val,val2)
+            print "maxent selected"
         else:
             trainingDataFile = 'data/training_neatfile.csv'                
             classifierDumpFile = 'data/svm_trained_model.pickle'
@@ -96,7 +98,7 @@ def submit():
         else:
         	return render_template('form_submit.html',sorry="T")
     except:
-        return render_template('form_submit.html',sorry="T")
+        return render_template('form_submit.html',sorry="Y")
 # Run the app :)
 if __name__ == '__main__':
 	app.jinja_env.cache = {}
