@@ -61,10 +61,8 @@ def submit():
     try:
         keyword=request.form['yourname']
         time=request.form['options']
-        print time
         twitterData = get_twitter_data.TwitterData()
         tweets = twitterData.getTwitterData(keyword, time)
-        print tweets
         classifier = request.form['c']
         if classifier=="maxent":
             print "Maxent chosen"
@@ -76,7 +74,7 @@ def submit():
             maxent.classify()
             val,val2,time,pos_count,neg_count,neut_count=maxent.print_value()
             pos_tweet,neg_tweet,neut_tweet=process(val,val2)
-            print "maxent selected"
+            print "maxent finished"
         else:
             trainingDataFile = 'data/training_neatfile.csv'                
             classifierDumpFile = 'data/svm_trained_model.pickle'

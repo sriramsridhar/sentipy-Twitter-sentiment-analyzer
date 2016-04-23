@@ -3,10 +3,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Sentipy-Sentimental analysis using real-time twitter data</title>
         <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
-        <!-- <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> -->
-
       
     </head>
     <body>
@@ -23,23 +19,23 @@
                 {% include 'error.html' %}
                 {% endif %}
                 <form name="myForm" method="post" action="{{ url_for('submit') }}" >
-                  <table>
-                  <tr>
-                  <td><label for="yourname">Please enter your search topic:</label></td>
-                  <td colspan="2"><input type="text" name="yourname" autocomplete="off" placeholder="Search term" autofocus required/></td>
-                  </tr>
-                  <tr>
-                  <td><label for="Time for accessing">Please enter the time period:</label></td>
-                  <td><input type="radio" name="options" id="option1" value="today" required> Today </input></td>
-                  <td><input type="radio" name="options" id="option2" value="lastweek"> Last week </input></td>
-                  </tr>
-                  <tr>
-                  <td><label for="Classifier used">Please enter the classifier to be used:</label></td>
-                  <td><input type="radio" name="c" id="c1" value="maxent" required> Maximum entropy </input></td>
-                  <td><input type="radio" name="c" id="c2" value="svm" > svm </input></td>
-                  </tr>
-                  <tr><td colspan="3" id="but"><button id="button" type="submit">Submit</button></td></tr>
-                  </table>
+                <table >
+                      <tr>
+                            <td><label for="yourname">Please enter your search topic:</label></td>
+                            <td colspan="2"><input type="text" name="yourname" autocomplete="off" placeholder="Search term" autofocus required/></td>
+                      </tr>
+                      <tr>
+                        <td><label for="Time for accessing">Please enter the time period:</label></td>
+                        <td><input type="radio" name="options" id="option1" value="today" required> Today </input></td>
+                        <td><input type="radio" name="options" id="option2" value="lastweek"> Last week </input></td>
+                      </tr>
+                      <tr>
+                        <td><label for="Classifier used">Please enter the classifier to be used:</label></td>
+                        <td><input type="radio" name="c" id="c1" value="maxent" required> Maximum entropy </input></td>
+                        <td><input type="radio" name="c" id="c2" value="svm" > svm </input></td>
+                      </tr>
+                      <tr><td colspan="3" id="but"><button id="mybut" type="submit" onclick="changebutton()">Submit</button></td></tr>
+                </table>
                 </form>
             </div>
             </div>
@@ -76,6 +72,19 @@
           </div>
         </div>
          <div id="footer"><footer><p style="text-align:center;">Version 1.0 . This site is designed by sriram &#38; srinath &#169; 2016</p></footer></div>
+   <script>
+     function changebutton(){
+      document.getElementById("mybut").innerHTML = "Processing";
+      /*document.getElementById("mybut").disabled = 'true';*/
+      document.getElementById("mybut").id = "fin";
+
+     }
+     window.onload = function()
+       {
+           document.getElementById("mybut").addEventListener( 'click' , changeClass );
+
+       }
+   </script>
     </body>
 </html>
  
