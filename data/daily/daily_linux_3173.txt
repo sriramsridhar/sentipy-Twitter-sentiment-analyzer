@@ -1,0 +1,204 @@
+(dp0
+I0
+(lp1
+VRT @nixcraft: One more reason to like Arch Linux. We have a repo-elephant :) \u000a\u000ahttps://t.co/frlveuQUqV Thanks reddit /u/z3ntu https://t.co/\u2026
+p2
+aVLinux Kernels https://t.co/m5UMrEe5fj #bash #linux #software Via @AlwaysInTao
+p3
+aVWhy The World Needs Linux Desktops https://t.co/vtwB7aHia9 #linux Via @AlwaysInTao
+p4
+aV@Sacro If @Steam_Games mistaking me for bot, they need to sort out clearly-unfit-for-purpose bot ID systems! :-[\u000a\u000a#IsItCozIUse #Linux? :-/
+p5
+aVInstall SHOUTcast 2 tools on a remote Linux server (Part 2) https://t.co/A283LR35L8 via @YouTube
+p6
+aV\u2606\u2605\u2606 JOB ALERT \u2606\u2605\u2606 #ITJob #Job #New York - C++ / Linux Software Developer https://t.co/ILyp7d9FCb \u261c view full details #bright #hiring
+p7
+aVRT @linuxfoundation: Here's how working late at night negatively affects your organization: https://t.co/rlPpdt5kPF via @swapnilbhartiya @c\u2026
+p8
+aVRT @codinghorror: Excited to try Ubuntu 16, and after installing 4 times I *still* can't get it to boot. (This is a system 14 was fine on)\u2026
+p9
+aV#linux #media  [PATCHv3 01/12] vb2: add a dev field to use for the default allocation context https://t.co/1mlPYTddNV
+p10
+aV#linux #drivers  #i2c  Re: [PATCH] i2c: mux: pinctrl: fix indentation for better readability https://t.co/xGP8ax9uej
+p11
+aV#linux #media  Re: [PATCH 2/6] sta2x11_vip: fix s_std https://t.co/Mh6z8c57mD
+p12
+aVLinux archive suggested the Linux development policy for three other programs they founder, essentially by reorganizing the
+p13
+aVUbuntu Kylin 16.04 LTS Arrives for the Chinese Linux Community with Bottom Unity: It's Ubuntu Kylin's turn to ... https://t.co/MntOjK642B
+p14
+aVRT @MicrosoftR: The #DataScience Virtual Machine on @Azure is now available for Linux! https://t.co/JjU9vGpe3D
+p15
+aVWindows Subsystem for Linux: Architectural Overview: https://t.co/j5iB32A1FM @7itUk
+p16
+aVI am sry to update it,the link is n/a and here comes "no release date available". But a guy is digging an Ubuntu ver\u000ahttps://t.co/BwyL8NfP69
+p17
+aVRT @pensator_sp: Windows Subsystem for Linux: Architectural Overview https://t.co/6cMr1q3vVk
+p18
+aV#linux #kvm  Re: [PATCH v4 2/2] KVM: move vcpu id checking to archs https://t.co/T4JfmzSuHv
+p19
+aV#linux #arm  #tegra  Re: [PATCH V2 13/14] dt-bindings: arm-gic: Add documentation for Tegra210 AGIC https://t.co/Z2R6Pcj0ma
+p20
+aV#linux #kvm  Re: [PATCH v3] KVM: remove buggy vcpu id check on vcpu creation https://t.co/ojZ3oVMc6b
+p21
+aV#libvirt #linux  Re: [PATCH] apibuild: Turn hidden_macros into array https://t.co/lJECqt4bDV
+p22
+aV#linux  #scsi  [PATCH 2/5] mpt3sas: Handle active cable exception event https://t.co/e4nvmUQKTN
+p23
+aV#linux #netdev  [PATCH net-next 00/10] net: hns: add support of debug dsaf device https://t.co/y5ukjWH3tj
+p24
+aV#linux #omap #arm  Re: Nokia N900: Broken lirc ir-rx51 driver https://t.co/jdWqjpThRU
+p25
+aV#linux #netdev  [PATCH net-next 02/10] net: hns: set debug port irq index to 0 https://t.co/6lQWrNGLCn
+p26
+aV#linux #omap #arm  Re: [GIT PULL] ARM: OMAP2+: first set of hwmod changes for v4.7 https://t.co/h5mtjqHZm2
+p27
+aV#linux #raid  [PATCH v3 19/21] fuse: Support fuse filesystems outside of init_user_ns https://t.co/KmLaBm0yWd
+p28
+aV[Channel 9] Windows Subsystem for Linux: Architectural Overview:  In this video Deepu Thomas lays down the rea... https://t.co/igKKqZgME0
+p29
+aVTransferring Big Files in Terminal on Linux with Transfer.sh https://t.co/bACc2ZbzTD
+p30
+aVWindows Subsystem for Linux: Architectural Overview https://t.co/VfTHQpLebM
+p31
+aV@SecBarbie agreed, and teach free workshops https://t.co/SOlMsMzSMS
+p32
+aV@codinghorror As someone who uses Linux as a desktop, TIL I'm an asshole.
+p33
+aV#linux #mips  Re: [PATCH v3 5/8] MIPS: Loongson-1A: Workaround for pll register can't be read https://t.co/Udhtz9T5qs
+p34
+aV#linux #fedora  Re: Proposed Adjusted Budget Scenarios for FY17 https://t.co/62GAdN3zbd
+p35
+aVRT @codinghorror: Seriously what kind of a-hole would install Linux on a desktop. Come on people. It's a server.
+p36
+aVQuality Engineering Internship @redhat India Pune IND https://t.co/w4E17UMsm1 #Linux #UNIX #virtualization
+p37
+aVRT @nixcraft: One more reason to like Arch Linux. We have a repo-elephant :) \u000a\u000ahttps://t.co/frlveuQUqV Thanks reddit /u/z3ntu https://t.co/\u2026
+p38
+aVDoes anyone here actually use Linux?
+p39
+aVit took 20 years but linux finally caught up to windows in the "installers detecting free disk space poorly" field https://t.co/AB3p8fQOKK
+p40
+aV[PATCH 3/8] firmware: qcom: scm: Generalize shared error map https://t.co/gdfztYXP3P  #arm #msm
+p41
+aVWindows Subsystem for Linux: Architectural Overview https://t.co/l1ulXF5zcU
+p42
+aV#alsa #linux #dev Re: [PATCH 2/3] ASoC: simple-card: Add support jack detection via codec https://t.co/C9m3YDx06d
+p43
+aVUbuntu Kylin 16.04 LTS Arrives for the Chinese Linux Community with Bottom Unity https://t.co/AoYRRF93R2
+p44
+aV#alsa #linux #dev Re: [PATCH] ASoC: Add max98371 codec driver https://t.co/k4LGfOMiaR
+p45
+aV#alsa #linux #dev Applied "ASoC: da7218: Update PLL ranges and dividers to improve locking" to the asoc tree https://t.co/XQxZ0vFlk8
+p46
+aVRT @codinghorror: Excited to try Ubuntu 16, and after installing 4 times I *still* can't get it to boot. (This is a system 14 was fine on)\u2026
+p47
+aVLinking Temp Page On Linux Web Server https://t.co/f5UkGGvTF7 via @YouTube
+p48
+aVRT @nixcraft: Nota a joke book but this one actually exists https://t.co/o5Dgj4RJPY #unix #linux https://t.co/PEWFKwJk0f
+p49
+aV#Linux Linux Kernel 4.4.8 LTS Has x86, MIPS and PA-RISC Fixes, Numerous Updated DriversSoftpedia NewsAfter inf... https://t.co/CGJe91QyM1
+p50
+aV@addaleax I'm just having fun learning! This is making me want to do Linux from scratch
+p51
+aVValve Releases SteamOS 2.70 Stable Update Based on Debian GNU/Linux 8.4 "Jessie": ... brought a V... https://t.co/yfnqqImuuj #linux #foss
+p52
+aVWe heard you like chrome so we are installing chrome on your linux on your chrome.
+p53
+aV@mikekasprzak Mandatory year of Linux desktop joke. Moving on: That'd've probably been a deal breaker for me personally...
+p54
+aVOpen Source and GNU/Linux News is out! https://t.co/RXBKW2GLO7
+p55
+aVOn Air &amp; Now Playing Electric Light Orchestra - Fire On High: SHOUTcast DNAS [v1.9.8/Linux\u2026 https://t.co/QkrWtKi5Qf
+p56
+aVRT @codinghorror: Seriously what kind of a-hole would install Linux on a desktop. Come on people. It's a server.
+p57
+aV#linux #fedora  #desktop  Re: hibernation support on the desktop https://t.co/fof5WJsteB
+p58
+aV#linux #fedora  #desktop  Re: hibernation support on the desktop https://t.co/SiojGqDaTq
+p59
+aV#git #linux  [PATCH v2 6/6] match-trees: convert several leaf functions to struct object_id https://t.co/Kn35P1gDys
+p60
+aVRe: Storage cluster advise, anybody? https://t.co/Y8Tl4cUWAE  #centos #linux
+p61
+aV#git #linux  [PATCH v8 2/6] t7030: test verifying multiple tags https://t.co/nFmDQRbhMN
+p62
+aVRe: Suddenly increased my hard disk https://t.co/0QrNvnfewP  #centos #linux
+p63
+aVNothing like a Linux thread. \u201cA didn\u2019t work.\u201d \u201cWell you should use distro B, duh!\u201d \u201cNo way, try C!\u201d https://t.co/6e8HFefKVd
+p64
+aVTomorrow is Yocto Beagleboard Demo &amp; Discussion - Pi projects from the #Phoenix @linux meetup. Find the info here: https://t.co/FmKTOSURsX
+p65
+aV@linux_guy I have done investigation in the past.. I'm also developed healing as well. I try my best to clense ppl who r affected by spirit
+p66
+aVUse WhatsApp On Your Linux Desktop With Whatsie -- https://t.co/geZ3uBN9r0
+p67
+aVRT @sethjuarez: Windows Subsystem for Linux Architecture Overview!!! Get the real scoop on how bash on Windows works new on @ch9 https://t.\u2026
+p68
+aVRT @Ronald_vanLoon: Linux\u2019s Torvalds surprised by IoT uptake | #DataScience #IoT #RT https://t.co/H0T0rzVbYb https://t.co/nrR2BFEoJ0
+p69
+aVRT @codinghorror: Seriously what kind of a-hole would install Linux on a desktop. Come on people. It's a server.
+p70
+aV#CyberMonday Getting Started with BeagleBone: Linux-Powered Electronic Projects With #Python and JavaScript https://t.co/Ho6qh0x0L4  #book
+p71
+aV\u201cUbuntu 16.04's new Snap format is a security risk\u201d https://t.co/pZu1re1Fkz
+p72
+aVWindows Subsystem for Linux: Architectural Overview https://t.co/mJAQn0aLGm
+p73
+aV#linux #drivers  Re: [PATCH] vme: trivial spelling and capitalization fixes https://t.co/psWLrPdvsJ
+p74
+aVRT @Softpedia: #Chakra GNU/Linux Gets #Linux Kernel 4.5.1, Latest #AMDGPU Graphics Driver https://t.co/c0c52l3JnK @ChakraOS #gnu https://t.\u2026
+p75
+aVRT @nixcraft: One more reason to like Arch Linux. We have a repo-elephant :) \u000a\u000ahttps://t.co/frlveuQUqV Thanks reddit /u/z3ntu https://t.co/\u2026
+p76
+aV#Chakra GNU/Linux Gets #Linux Kernel 4.5.1, Latest #AMDGPU Graphics Driver https://t.co/oQsOv4G0qT @ChakraOS #gnu https://t.co/bbToKxhvj4
+p77
+aV#Chakra GNU/Linux Gets #Linux Kernel 4.5.1, Latest #AMDGPU Graphics Driver https://t.co/c0c52l3JnK @ChakraOS #gnu https://t.co/KoM3KhHbwW
+p78
+aVhttps://t.co/cQaBtG71Yn Linux Optimum Pack
+p79
+aV#Chakra GNU/Linux Gets #Linux Kernel 4.5.1, Latest #AMDGPU Graphics Driver https://t.co/GIuBA3kfip @ChakraOS #gnu https://t.co/82RujP0pcX
+p80
+aV@linux_guy Hi Chris. .\u000amy name is theresa, I'm clairvoyant, I have a keen sense of spirits, haunting,  paranormal.
+p81
+aVLinux hosting vs. bs3000 hosting: zASJRfCGx
+p82
+aVThere are two types of Linux developers - those who can spell, andthose who can't.  There is a constant pitched battle b
+p83
+aVRT @LinuxDotCom: Bash on Windows: What Does It Mean?: As the enterprise landscape is changing -- in favor of Linux and o... https://t.co/Lg\u2026
+p84
+aVRT @LinuxDotCom: One of GNU/Linux\u2019s Most Important Networking Components Just Got an Update: NetworkManager 1.2 debuts w... https://t.co/6q\u2026
+p85
+aVWant to work in #SiouxFalls, SD? View our latest opening: https://t.co/BNZkekaj9Y #IT #Job #Jobs #Hiring https://t.co/xv6qoo8PSo
+p86
+aV@MeetLima Ubuntu1604 was released today.Maybe u could provide us at least some news about the Linux compatibility to celebrate the occasion?
+p87
+aVRT @eWEEKNews: .@Ubuntu 16.04 Linux Debuts With Support Until 2021 https://t.co/ifr4nlm4qp https://t.co/PInJNgwbhz
+p88
+aVTransferring Big Files in Terminal on Linux with Transfer.sh https://t.co/tl56p3IAj5
+p89
+aV@codinghorror People who have to admin Linux on a server.
+p90
+aVRT @sethjuarez: Windows Subsystem for Linux Architecture Overview!!! Get the real scoop on how bash on Windows works new on @ch9 https://t.\u2026
+p91
+aV@codinghorror if using linux wasnt a de facto requirement for what i do, i'd probably be using windows
+p92
+aVRT @codinghorror: Seriously what kind of a-hole would install Linux on a desktop. Come on people. It's a server.
+p93
+aVRT @codinghorror: Excited to try Ubuntu 16, and after installing 4 times I *still* can't get it to boot. (This is a system 14 was fine on)\u2026
+p94
+aV@codinghorror i use linux on my laptop and i carry flash in my bag with the installer on it - have had software updates render me dead
+p95
+aVanything but i know my 7 game win streak is going to install linux on my laptop when i get my pc port already
+p96
+aVWindows Subsystem for Linux: Architectural Overview -  In this video Deepu Thomas lays down the real scoop behi... https://t.co/tIwmPzHReR
+p97
+aV#jobs #beejobs #North-Carolina #Linux Systems Engineer: #NC-Charlotte, Linux Systems Engineer DTS is looking f... https://t.co/e9zvTBtgA8
+p98
+aVRT @josefajardo: now it makes sense .. the Linux Subsystem in Windows does use a pico-process underneath https://t.co/tZLRxNSLK8
+p99
+aV#linux #kernel  Re: linux-next: Tree for Apr 22 (adjust_autoksyms.sh) https://t.co/9mH1epEoGA #lkml
+p100
+aV#linux #kernel  UBSAN warning in r100: shift exponent 255 is too large for 32-bit type 'int' https://t.co/d9pDG11V4I #lkml
+p101
+as.
