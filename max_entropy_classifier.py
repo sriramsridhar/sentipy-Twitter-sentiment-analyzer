@@ -1,7 +1,7 @@
 import nltk.classify
 import re, pickle, csv, os
 import classifier_helper
-
+from nltk.corpus import sentiwordnet
 from collections import defaultdict
 
 #start class

@@ -43,8 +43,13 @@ def index():
         an_item = dict(sno=j, date=i.time, keyword=i.search_keyword,  result=i.search_result, c=i.classifier_used)
         items.append(an_item)
         j=j+1
-    return render_template('form_submit.html',items=items)
-
+    if not items:
+        print "no items"
+        return render_template('form_submit.html',noelement=True)
+    else:
+        print "items"
+        return render_template('form_submit.html',items=items)
+        
 
 def get_time(f):
     if f == 'today':

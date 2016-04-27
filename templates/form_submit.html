@@ -45,6 +45,9 @@
                 <h1>Recent searches</h1>
             </div>
           <div id="content">
+          {% if noelement %}
+          <p>Sorry no searches made so far</p>
+          {% else %}
            <table class="zui-table zui-table-highlight-all">
                 <thead>
                     <tr>
@@ -69,6 +72,7 @@
                 <a href="{{ url_for('history') }}"><button> See more... &#8658; </button></a>
                 <br/>
                 <br/>
+                {%endif%}
           </div>
         </div>
          <div id="footer"><footer><p style="text-align:center;">Version 1.0 . This site is designed by sriram &#38; srinath &#169; 2016</p></footer></div>
